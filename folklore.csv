@@ -1,0 +1,158 @@
+F,album,track_number,acousticness,danceability,energy,loudness,tempo,valence,popularity,duration_ms
+Fortnight (feat. Post Malone),THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,1,0.502,0.504,0.386,-10.976,192.004,0.281,82,228965
+The Tortured Poets Department,THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,2,0.0483,0.604,0.428,-8.441,110.259,0.292,79,293048
+My Boy Only Breaks His Favorite Toys,THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,3,0.137,0.596,0.563,-7.362,97.073,0.481,80,203801
+Down Bad,THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,4,0.56,0.541,0.366,-10.412,159.707,0.168,82,261228
+So Long London,THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,5,0.73,0.423,0.533,-11.388,160.218,0.248,80,262974
+But Daddy I Love Him,THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,6,0.384,0.521,0.72,-7.684,79.943,0.438,81,340428
+Fresh Out The Slammer,THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,7,0.624,0.33,0.483,-9.394,87.115,0.34,78,210789
+Florida!!! (feat. Florence + The Machine),THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,8,0.178,0.533,0.573,-7.123,150.088,0.398,79,215463
+Guilty as Sin?,THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,9,0.607,0.626,0.428,-8.374,94.95,0.487,82,254365
+Who’s Afraid of Little Old Me?,THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,10,0.315,0.606,0.338,-10.555,119.88,0.238,81,334084
+I Can Fix Him (No Really I Can),THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,11,0.768,0.661,0.257,-13.961,106.896,0.318,77,156297
+loml,THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,12,0.858,0.423,0.272,-12.56,78.539,0.195,80,277156
+I Can Do It With a Broken Heart,THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,13,0.123,0.701,0.751,-8.39,129.994,0.22,82,218004
+The Smallest Man Who Ever Lived,THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,14,0.52,0.426,0.41,-9.083,142.377,0.263,81,245541
+The Alchemy,THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,15,0.422,0.64,0.421,-8.802,100.056,0.353,78,196900
+Clara Bow,THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,16,0.636,0.686,0.318,-11.046,104.088,0.214,76,216662
+The Black Dog,THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,17,0.707,0.527,0.27,-10.855,154.042,0.23,79,238857
+imgonnagetyouback,THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,18,0.608,0.784,0.391,-9.471,110.007,0.15,81,222072
+The Albatross,THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,19,0.655,0.352,0.479,-8.942,172.013,0.292,77,183878
+Chloe or Sam or Sophia or Marcus,THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,20,0.78,0.516,0.451,-8.552,70.266,0.218,77,213281
+How Did It End?,THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,21,0.785,0.492,0.379,-8.859,83.993,0.273,80,238706
+So High School,THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,22,0.0274,0.366,0.866,-4.514,176.07,0.293,82,228800
+I Hate It Here,THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,23,0.717,0.485,0.562,-7.197,105.953,0.297,78,243875
+thanK you aIMee,THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,24,0.609,0.609,0.541,-8.013,95.997,0.252,76,263817
+I Look in People's Windows,THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,25,0.69,0.763,0.274,-11.429,90.796,0.385,76,131907
+The Prophecy,THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,26,0.825,0.421,0.525,-10.359,167.927,0.535,81,249807
+Cassandra,THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,27,0.806,0.587,0.587,-9.879,139.963,0.514,76,240205
+Peter,THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,28,0.805,0.342,0.376,-8.212,176.859,0.29,77,283957
+The Bolter,THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,29,0.638,0.455,0.586,-7.978,183.694,0.481,77,238241
+Robin,THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,30,0.791,0.476,0.386,-10.601,138.265,0.158,73,240893
+The Manuscript,THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,31,0.901,0.509,0.256,-11.665,94.184,0.436,74,224743
+Fortnight (feat. Post Malone),THE TORTURED POETS DEPARTMENT,1,0.502,0.504,0.386,-10.976,192.004,0.281,91,228965
+The Tortured Poets Department,THE TORTURED POETS DEPARTMENT,2,0.0483,0.604,0.428,-8.441,110.259,0.292,75,293048
+My Boy Only Breaks His Favorite Toys,THE TORTURED POETS DEPARTMENT,3,0.137,0.596,0.563,-7.362,97.073,0.481,77,203801
+Down Bad,THE TORTURED POETS DEPARTMENT,4,0.56,0.541,0.366,-10.412,159.707,0.168,82,261228
+So Long London,THE TORTURED POETS DEPARTMENT,5,0.73,0.423,0.533,-11.388,160.218,0.248,78,262974
+But Daddy I Love Him,THE TORTURED POETS DEPARTMENT,6,0.384,0.521,0.72,-7.684,79.943,0.438,78,340428
+Fresh Out The Slammer,THE TORTURED POETS DEPARTMENT,7,0.624,0.33,0.483,-9.394,87.115,0.34,69,210789
+Florida!!! (feat. Florence + The Machine),THE TORTURED POETS DEPARTMENT,8,0.178,0.533,0.573,-7.123,150.088,0.398,76,215463
+Guilty as Sin?,THE TORTURED POETS DEPARTMENT,9,0.607,0.626,0.428,-8.374,94.95,0.487,82,254365
+Who’s Afraid of Little Old Me?,THE TORTURED POETS DEPARTMENT,10,0.315,0.606,0.338,-10.555,119.88,0.238,80,334084
+I Can Fix Him (No Really I Can),THE TORTURED POETS DEPARTMENT,11,0.768,0.661,0.257,-13.961,106.896,0.318,67,156297
+loml,THE TORTURED POETS DEPARTMENT,12,0.858,0.423,0.272,-12.56,78.539,0.195,75,277156
+I Can Do It With a Broken Heart,THE TORTURED POETS DEPARTMENT,13,0.123,0.701,0.751,-8.39,129.994,0.22,88,218004
+The Smallest Man Who Ever Lived,THE TORTURED POETS DEPARTMENT,14,0.52,0.426,0.41,-9.083,142.377,0.263,74,245541
+The Alchemy,THE TORTURED POETS DEPARTMENT,15,0.422,0.64,0.421,-8.802,100.056,0.353,73,196900
+Clara Bow,THE TORTURED POETS DEPARTMENT,16,0.636,0.686,0.318,-11.046,104.088,0.214,67,216662
+Welcome To New York (Taylor's Version),1989 (Taylor's Version) [Deluxe],1,0.00661,0.76,0.602,-4.871,116.989,0.685,62,212600
+Blank Space (Taylor's Version),1989 (Taylor's Version) [Deluxe],2,0.0901,0.732,0.719,-5.469,96.035,0.71,64,231833
+Style (Taylor's Version),1989 (Taylor's Version) [Deluxe],3,0.000456,0.514,0.821,-4.803,94.884,0.298,65,231000
+Out Of The Woods (Taylor's Version),1989 (Taylor's Version) [Deluxe],4,0.000466,0.544,0.884,-5.973,91.981,0.184,63,235800
+All You Had To Do Was Stay (Taylor's Version),1989 (Taylor's Version) [Deluxe],5,0.000778,0.589,0.713,-5.614,97.069,0.54,62,193289
+Shake It Off (Taylor's Version),1989 (Taylor's Version) [Deluxe],6,0.0112,0.632,0.805,-5.707,160.052,0.903,62,219209
+I Wish You Would (Taylor's Version),1989 (Taylor's Version) [Deluxe],7,0.00388,0.671,0.853,-6.568,118.032,0.523,61,207650
+Bad Blood (Taylor's Version),1989 (Taylor's Version) [Deluxe],8,0.0369,0.624,0.711,-6.347,169.999,0.347,61,211103
+Wildest Dreams (Taylor's Version),1989 (Taylor's Version) [Deluxe],9,0.0348,0.587,0.663,-7.439,139.993,0.539,63,220433
+How You Get The Girl (Taylor's Version),1989 (Taylor's Version) [Deluxe],10,0.00198,0.761,0.67,-5.956,120.014,0.519,61,247533
+This Love (Taylor’s Version),1989 (Taylor's Version) [Deluxe],11,0.302,0.47,0.494,-8.672,144.039,0.0524,60,250100
+I Know Places (Taylor's Version),1989 (Taylor's Version) [Deluxe],12,0.0846,0.572,0.807,-5.348,160.015,0.626,61,195700
+Clean (Taylor's Version),1989 (Taylor's Version) [Deluxe],13,0.297,0.782,0.379,-8.964,103.99,0.267,62,271000
+Wonderland (Taylor's Version),1989 (Taylor's Version) [Deluxe],14,0.0105,0.387,0.703,-5.956,123.18,0.32,61,245566
+You Are In Love (Taylor's Version),1989 (Taylor's Version) [Deluxe],15,0.572,0.554,0.509,-9.403,85.079,0.401,62,267389
+New Romantics (Taylor's Version),1989 (Taylor's Version) [Deluxe],16,0.00516,0.653,0.848,-5.936,122.017,0.724,63,230177
+"""Slut!"" (Taylor's Version) (From The Vault)",1989 (Taylor's Version) [Deluxe],17,0.33,0.621,0.415,-13.187,77.978,0.313,64,180381
+Say Don't Go (Taylor's Version) (From The Vault),1989 (Taylor's Version) [Deluxe],18,0.0684,0.632,0.539,-8.375,109.962,0.186,63,279833
+Now That We Don't Talk (Taylor's Version) (From The Vault),1989 (Taylor's Version) [Deluxe],19,0.16,0.8,0.509,-9.386,109.994,0.0768,65,146436
+Suburban Legends (Taylor's Version) (From The Vault),1989 (Taylor's Version) [Deluxe],20,0.212,0.695,0.607,-8.84,118.043,0.394,61,171818
+Is It Over Now? (Taylor's Version) (From The Vault),1989 (Taylor's Version) [Deluxe],21,0.0486,0.599,0.651,-7.343,100.001,0.153,66,229477
+Bad Blood (feat. Kendrick Lamar) (Taylor's Version),1989 (Taylor's Version) [Deluxe],22,0.0143,0.604,0.644,-6.931,170.088,0.197,74,199773
+Welcome To New York (Taylor's Version),1989 (Taylor's Version),1,0.00661,0.76,0.602,-4.871,116.989,0.685,71,212600
+Blank Space (Taylor's Version),1989 (Taylor's Version),2,0.0901,0.732,0.719,-5.469,96.035,0.71,80,231833
+Style (Taylor's Version),1989 (Taylor's Version),3,0.000456,0.514,0.821,-4.803,94.884,0.298,79,231000
+Out Of The Woods (Taylor's Version),1989 (Taylor's Version),4,0.000466,0.544,0.884,-5.973,91.981,0.184,73,235800
+All You Had To Do Was Stay (Taylor's Version),1989 (Taylor's Version),5,0.000778,0.589,0.713,-5.614,97.069,0.54,69,193289
+Shake It Off (Taylor's Version),1989 (Taylor's Version),6,0.0112,0.632,0.805,-5.707,160.052,0.903,75,219209
+I Wish You Would (Taylor's Version),1989 (Taylor's Version),7,0.00388,0.671,0.853,-6.568,118.032,0.523,68,207650
+Bad Blood (Taylor's Version),1989 (Taylor's Version),8,0.0369,0.624,0.711,-6.347,169.999,0.347,71,211103
+Wildest Dreams (Taylor's Version),1989 (Taylor's Version),9,0.0348,0.587,0.663,-7.439,139.993,0.539,77,220433
+How You Get The Girl (Taylor's Version),1989 (Taylor's Version),10,0.00198,0.761,0.67,-5.956,120.014,0.519,67,247533
+This Love (Taylor’s Version),1989 (Taylor's Version),11,0.302,0.47,0.494,-8.672,144.039,0.0524,67,250100
+I Know Places (Taylor's Version),1989 (Taylor's Version),12,0.0846,0.572,0.807,-5.348,160.015,0.626,66,195700
+Clean (Taylor's Version),1989 (Taylor's Version),13,0.297,0.782,0.379,-8.964,103.99,0.267,70,271000
+Wonderland (Taylor's Version),1989 (Taylor's Version),14,0.0105,0.387,0.703,-5.956,123.18,0.32,67,245566
+You Are In Love (Taylor's Version),1989 (Taylor's Version),15,0.572,0.554,0.509,-9.403,85.079,0.401,69,267389
+New Romantics (Taylor's Version),1989 (Taylor's Version),16,0.00516,0.653,0.848,-5.936,122.017,0.724,74,230177
+"""Slut!"" (Taylor's Version) (From The Vault)",1989 (Taylor's Version),17,0.33,0.621,0.415,-13.187,77.978,0.313,77,180381
+Say Don't Go (Taylor's Version) (From The Vault),1989 (Taylor's Version),18,0.0684,0.632,0.539,-8.375,109.962,0.186,73,279833
+Now That We Don't Talk (Taylor's Version) (From The Vault),1989 (Taylor's Version),19,0.16,0.8,0.509,-9.386,109.994,0.0768,77,146436
+Suburban Legends (Taylor's Version) (From The Vault),1989 (Taylor's Version),20,0.212,0.695,0.607,-8.84,118.043,0.394,68,171818
+Is It Over Now? (Taylor's Version) (From The Vault),1989 (Taylor's Version),21,0.0486,0.599,0.651,-7.343,100.001,0.153,78,229477
+the 1,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],1,0.75,0.78,0.361,-6.942,139.902,0.163,48,210240
+cardigan,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],2,0.525,0.612,0.58,-8.572,130.045,0.534,49,239560
+the last great american dynasty,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],3,0.481,0.688,0.653,-8.558,147.991,0.701,47,231000
+exile (feat. Bon Iver),folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],4,0.761,0.31,0.374,-8.464,75.938,0.16,48,285640
+my tears ricochet,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],5,0.814,0.456,0.265,-10.663,129.947,0.112,48,255893
+mirrorball,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],6,0.686,0.549,0.417,-10.064,110.137,0.347,46,208973
+seven,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],7,0.888,0.602,0.494,-10.813,94.955,0.374,45,208906
+august,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],8,0.553,0.387,0.634,-9.222,89.567,0.42,48,261920
+this is me trying,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],9,0.312,0.511,0.478,-9.837,135.882,0.408,47,195106
+illicit affairs,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],10,0.862,0.529,0.304,-10.567,119.58,0.44,46,190893
+invisible string,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],11,0.859,0.651,0.459,-11.128,83.455,0.454,46,252880
+mad woman,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],12,0.67,0.593,0.7,-9.016,141.898,0.451,44,237266
+epiphany,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],13,0.727,0.317,0.254,-13.679,93.933,0.103,43,289746
+betty,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],14,0.589,0.595,0.376,-8.767,95.946,0.476,45,294520
+peace,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],15,0.916,0.644,0.284,-12.879,150.072,0.328,43,234000
+hoax,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],16,0.964,0.676,0.178,-15.01,118.84,0.404,43,220040
+the lakes - bonus track,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],17,0.842,0.313,0.258,-11.532,179.947,0.268,45,211813
+the 1 - the long pond studio sessions,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],1,0.898,0.708,0.25,-10.731,139.803,0.156,54,219893
+cardigan - the long pond studio sessions,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],2,0.88,0.395,0.234,-9.704,86.478,0.247,54,230680
+the last great american dynasty - the long pond studio sessions,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],3,0.743,0.64,0.618,-11.715,147.948,0.614,51,232346
+exile (feat. Bon Iver) - the long pond studio sessions,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],4,0.848,0.359,0.305,-10.295,151.956,0.108,53,279893
+my tears ricochet - the long pond studio sessions,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],5,0.946,0.531,0.172,-12.34,129.007,0.168,55,295173
+mirrorball - the long pond studio sessions,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],6,0.78,0.509,0.386,-8.434,109.993,0.109,53,237373
+seven - the long pond studio sessions,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],7,0.914,0.694,0.449,-11.49,94.963,0.363,51,208986
+august - the long pond studio sessions,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],8,0.5,0.554,0.663,-8.961,89.977,0.545,54,260000
+this is me trying - the long pond studio sessions,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],9,0.928,0.435,0.332,-11.611,68.097,0.157,54,209293
+illicit affairs - the long pond studio sessions,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],10,0.883,0.489,0.235,-10.274,117.699,0.435,53,183720
+invisible string - the long pond studio sessions,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],11,0.942,0.59,0.282,-10.542,83.438,0.351,51,257359
+mad woman - the long pond studio sessions,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],12,0.887,0.663,0.465,-10.463,141.834,0.346,50,238333
+epiphany - the long pond studio sessions,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],13,0.916,0.524,0.2,-13.004,93.87,0.113,49,274880
+betty - the long pond studio sessions,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],14,0.841,0.538,0.316,-9.5,95.68,0.518,51,290040
+peace - the long pond studio sessions,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],15,0.93,0.619,0.344,-11.472,149.897,0.513,50,214373
+hoax - the long pond studio sessions,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],16,0.962,0.682,0.155,-13.083,118.832,0.483,51,221800
+the lakes - the long pond studio sessions,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],17,0.794,0.606,0.221,-11.767,89.844,0.112,53,199733
+the 1,folklore (deluxe version),1,0.75,0.78,0.361,-6.942,139.902,0.163,68,210240
+cardigan,folklore (deluxe version),2,0.525,0.612,0.58,-8.572,130.045,0.534,68,239560
+the last great american dynasty,folklore (deluxe version),3,0.481,0.688,0.653,-8.558,147.991,0.701,66,231000
+exile (feat. Bon Iver),folklore (deluxe version),4,0.761,0.31,0.374,-8.464,75.938,0.16,68,285640
+my tears ricochet,folklore (deluxe version),5,0.814,0.456,0.265,-10.663,129.947,0.112,68,255893
+mirrorball,folklore (deluxe version),6,0.686,0.549,0.417,-10.064,110.137,0.347,66,208973
+seven,folklore (deluxe version),7,0.888,0.602,0.494,-10.813,94.955,0.374,66,208906
+august,folklore (deluxe version),8,0.553,0.387,0.634,-9.222,89.567,0.42,68,261920
+this is me trying,folklore (deluxe version),9,0.312,0.511,0.478,-9.837,135.882,0.408,66,195106
+illicit affairs,folklore (deluxe version),10,0.862,0.529,0.304,-10.567,119.58,0.44,66,190893
+invisible string,folklore (deluxe version),11,0.859,0.651,0.459,-11.128,83.455,0.454,66,252880
+mad woman,folklore (deluxe version),12,0.67,0.593,0.7,-9.016,141.898,0.451,64,237266
+epiphany,folklore (deluxe version),13,0.727,0.317,0.254,-13.679,93.933,0.103,63,289746
+betty,folklore (deluxe version),14,0.589,0.595,0.376,-8.767,95.946,0.476,65,294520
+peace,folklore (deluxe version),15,0.916,0.644,0.284,-12.879,150.072,0.328,63,234000
+hoax,folklore (deluxe version),16,0.964,0.676,0.178,-15.01,118.84,0.404,63,220040
+the lakes - bonus track,folklore (deluxe version),17,0.842,0.313,0.258,-11.532,179.947,0.268,67,211813
+the 1,folklore,1,0.757,0.777,0.357,-6.942,139.884,0.172,74,210251
+cardigan,folklore,2,0.537,0.613,0.581,-8.588,130.033,0.551,84,239560
+the last great american dynasty,folklore,3,0.467,0.686,0.662,-8.505,147.922,0.706,70,230999
+exile (feat. Bon Iver),folklore,4,0.778,0.298,0.38,-8.426,75.602,0.152,77,285634
+my tears ricochet,folklore,5,0.806,0.469,0.263,-10.63,129.86,0.112,78,255893
+mirrorball,folklore,6,0.687,0.553,0.413,-10.037,110.107,0.379,73,208977
+seven,folklore,7,0.9,0.596,0.488,-10.769,94.922,0.415,70,208906
+august,folklore,8,0.538,0.532,0.623,-9.208,89.937,0.403,84,261922
+this is me trying,folklore,9,0.314,0.515,0.476,-9.843,135.886,0.412,73,195097
+illicit affairs,folklore,10,0.881,0.559,0.31,-10.445,119.845,0.46,77,190898
+invisible string,folklore,11,0.838,0.653,0.452,-11.143,83.433,0.45,73,252880
+mad woman,folklore,12,0.655,0.592,0.699,-8.995,141.916,0.506,65,237258
+epiphany,folklore,13,0.731,0.175,0.267,-13.69,94.203,0.106,64,289749
+betty,folklore,14,0.6,0.593,0.377,-8.761,95.939,0.502,73,294521
+peace,folklore,15,0.918,0.647,0.272,-12.906,150.044,0.339,65,234000
+hoax,folklore,16,0.966,0.662,0.181,-15.065,118.819,0.429,65,220042
