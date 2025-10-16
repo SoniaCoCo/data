@@ -1,0 +1,721 @@
+collection_timestamp,subreddit,title,rank,score,age_hours,age_seconds,upvote_ratio,num_comments
+2025-10-08 5:15:18 PM,drawing,Weekly discussion thread for /r/drawing,1,34,4873.35,17544049.1,0.94,301
+2025-10-08 5:42:10 PM,drawing,Weekly discussion thread for /r/drawing,1,35,4873.79,17545661.42,0.94,301
+2025-10-08 5:59:15 PM,drawing,Weekly discussion thread for /r/drawing,1,37,4874.08,17546686.43,0.96,301
+2025-10-08 5:59:18 PM,drawing,Weekly discussion thread for /r/drawing,1,36,4874.08,17546689.2,0.98,301
+2025-10-08 6:15:18 PM,drawing,Weekly discussion thread for /r/drawing,1,36,4874.35,17547649.45,1,301
+2025-10-08 6:15:20 PM,drawing,Weekly discussion thread for /r/drawing,1,39,4874.35,17547651.85,1,301
+2025-10-08 6:31:22 PM,drawing,Weekly discussion thread for /r/drawing,1,36,4874.61,17548613.32,1,301
+2025-10-08 6:47:36 PM,drawing,Weekly discussion thread for /r/drawing,1,37,4874.89,17549587.03,0.96,301
+2025-10-08 6:47:39 PM,drawing,Weekly discussion thread for /r/drawing,1,33,4874.89,17549590.15,0.95,301
+2025-10-08 6:55:18 PM,drawing,Weekly discussion thread for /r/drawing,1,34,4875.01,17550049.83,0.95,301
+2025-10-08 7:05:18 PM,drawing,Weekly discussion thread for /r/drawing,1,35,4875.18,17550649.68,0.95,301
+2025-10-08 7:15:18 PM,drawing,Weekly discussion thread for /r/drawing,1,35,4875.35,17551249.66,0.94,301
+2025-10-08 7:25:18 PM,drawing,Weekly discussion thread for /r/drawing,1,38,4875.51,17551849.39,0.98,301
+2025-10-08 7:35:18 PM,drawing,Weekly discussion thread for /r/drawing,1,32,4875.68,17552449.84,0.93,301
+2025-10-08 7:45:18 PM,drawing,Weekly discussion thread for /r/drawing,1,38,4875.85,17553049.19,0.98,301
+2025-10-08 8:05:12 PM,drawing,Weekly discussion thread for /r/drawing,1,37,4876.18,17554243.3,0.96,301
+2025-10-08 8:05:18 PM,drawing,Weekly discussion thread for /r/drawing,1,32,4876.18,17554250,0.93,301
+2025-10-08 8:22:02 PM,drawing,Weekly discussion thread for /r/drawing,1,38,4876.46,17555253.8,1,301
+2025-10-08 8:25:18 PM,drawing,Weekly discussion thread for /r/drawing,1,37,4876.51,17555449.38,0.96,301
+2025-10-08 8:35:18 PM,drawing,Weekly discussion thread for /r/drawing,1,33,4876.68,17556049.48,0.93,301
+2025-10-08 8:45:18 PM,drawing,Weekly discussion thread for /r/drawing,1,38,4876.85,17556649.21,0.97,301
+2025-10-08 8:55:18 PM,drawing,Weekly discussion thread for /r/drawing,1,37,4877.01,17557249.65,1,301
+2025-10-08 9:05:18 PM,drawing,Weekly discussion thread for /r/drawing,1,34,4877.18,17557849.23,0.94,301
+2025-10-08 9:15:18 PM,drawing,Weekly discussion thread for /r/drawing,1,34,4877.35,17558449.82,0.94,301
+2025-10-08 9:40:06 PM,drawing,Weekly discussion thread for /r/drawing,1,36,4877.76,17559937.24,0.98,301
+2025-10-08 9:40:10 PM,drawing,Weekly discussion thread for /r/drawing,1,38,4877.76,17559941.07,1,301
+2025-10-08 9:56:33 PM,drawing,Weekly discussion thread for /r/drawing,1,35,4878.03,17560924.01,0.95,301
+2025-10-08 9:56:34 PM,drawing,Weekly discussion thread for /r/drawing,1,33,4878.03,17560925.63,0.93,301
+2025-10-08 10:13:47 PM,drawing,Weekly discussion thread for /r/drawing,1,37,4878.32,17561958.24,0.96,301
+2025-10-08 10:15:18 PM,drawing,Weekly discussion thread for /r/drawing,1,34,4878.35,17562049.51,0.95,301
+2025-10-08 10:25:18 PM,drawing,Weekly discussion thread for /r/drawing,1,37,4878.51,17562650,0.97,301
+2025-10-08 10:35:18 PM,drawing,Weekly discussion thread for /r/drawing,1,32,4878.68,17563249.79,0.93,301
+2025-10-08 10:45:18 PM,drawing,Weekly discussion thread for /r/drawing,1,33,4878.85,17563849.24,0.93,301
+2025-10-08 10:55:18 PM,drawing,Weekly discussion thread for /r/drawing,1,38,4879.01,17564449.73,0.97,301
+2025-10-08 11:05:18 PM,drawing,Weekly discussion thread for /r/drawing,1,34,4879.18,17565049.85,0.97,301
+2025-10-08 11:15:18 PM,drawing,Weekly discussion thread for /r/drawing,1,38,4879.35,17565649.19,0.97,301
+2025-10-08 11:25:18 PM,drawing,Weekly discussion thread for /r/drawing,1,32,4879.51,17566249.46,0.93,301
+2025-10-08 11:35:19 PM,drawing,Weekly discussion thread for /r/drawing,1,34,4879.68,17566850,0.97,301
+2025-10-08 11:45:18 PM,drawing,Weekly discussion thread for /r/drawing,1,35,4879.85,17567449.56,0.97,301
+2025-10-08 11:55:18 PM,drawing,Weekly discussion thread for /r/drawing,1,36,4880.01,17568049.77,0.95,301
+2025-10-09 12:05:18 AM,drawing,Weekly discussion thread for /r/drawing,1,33,4880.18,17568649.2,0.93,301
+2025-10-09 12:23:02 AM,drawing,Weekly discussion thread for /r/drawing,1,38,4880.48,17569713.25,0.97,301
+2025-10-09 12:40:27 AM,drawing,Weekly discussion thread for /r/drawing,1,38,4880.77,17570758.94,0.98,301
+2025-10-09 12:40:31 AM,drawing,Weekly discussion thread for /r/drawing,1,33,4880.77,17570762.34,0.93,301
+2025-10-09 12:45:18 AM,drawing,Weekly discussion thread for /r/drawing,1,33,4880.85,17571049.93,0.93,301
+2025-10-09 12:55:18 AM,drawing,Weekly discussion thread for /r/drawing,1,32,4881.01,17571649.47,0.93,301
+2025-10-09 1:05:18 AM,drawing,Weekly discussion thread for /r/drawing,1,33,4881.18,17572249.11,0.93,301
+2025-10-09 1:15:18 AM,drawing,Weekly discussion thread for /r/drawing,1,32,4881.35,17572849.74,0.93,301
+2025-10-09 1:25:18 AM,drawing,Weekly discussion thread for /r/drawing,1,36,4881.51,17573449.17,0.97,301
+2025-10-09 1:35:18 AM,drawing,Weekly discussion thread for /r/drawing,1,37,4881.68,17574049.63,0.98,301
+2025-10-09 1:57:38 AM,drawing,Weekly discussion thread for /r/drawing,1,38,4882.05,17575389.57,0.97,301
+2025-10-09 1:57:41 AM,drawing,Weekly discussion thread for /r/drawing,1,36,4882.05,17575392.74,0.95,301
+2025-10-09 2:05:18 AM,drawing,Weekly discussion thread for /r/drawing,1,36,4882.18,17575849.9,0.94,301
+2025-10-09 2:15:18 AM,drawing,Weekly discussion thread for /r/drawing,1,34,4882.35,17576449.72,0.94,301
+2025-10-09 2:25:18 AM,drawing,Weekly discussion thread for /r/drawing,1,34,4882.51,17577049.51,0.95,301
+2025-10-09 2:35:18 AM,drawing,Weekly discussion thread for /r/drawing,1,37,4882.68,17577649.95,0.97,301
+2025-10-09 2:45:18 AM,drawing,Weekly discussion thread for /r/drawing,1,34,4882.85,17578249.15,0.95,301
+2025-10-09 2:55:18 AM,drawing,Weekly discussion thread for /r/drawing,1,35,4883.01,17578849.66,0.97,301
+2025-10-09 3:13:55 AM,drawing,Weekly discussion thread for /r/drawing,1,39,4883.32,17579966.53,1,301
+2025-10-09 3:30:04 AM,drawing,Weekly discussion thread for /r/drawing,1,35,4883.59,17580935.94,0.97,301
+2025-10-09 3:30:07 AM,drawing,Weekly discussion thread for /r/drawing,1,35,4883.59,17580938.32,0.95,301
+2025-10-09 3:35:18 AM,drawing,Weekly discussion thread for /r/drawing,1,36,4883.68,17581249.47,0.95,301
+2025-10-09 3:45:18 AM,drawing,Weekly discussion thread for /r/drawing,1,36,4883.85,17581849.8,0.94,301
+2025-10-09 3:55:18 AM,drawing,Weekly discussion thread for /r/drawing,1,35,4884.01,17582449.55,0.98,301
+2025-10-09 4:05:18 AM,drawing,Weekly discussion thread for /r/drawing,1,35,4884.18,17583050,0.98,301
+2025-10-09 4:15:18 AM,drawing,Weekly discussion thread for /r/drawing,1,36,4884.35,17583649.53,0.98,301
+2025-10-09 4:25:19 AM,drawing,Weekly discussion thread for /r/drawing,1,40,4884.51,17584250.09,1,301
+2025-10-09 4:46:15 AM,drawing,Weekly discussion thread for /r/drawing,1,33,4884.86,17585506.47,0.95,301
+2025-10-09 4:46:17 AM,drawing,Weekly discussion thread for /r/drawing,1,39,4884.86,17585508.69,1,301
+2025-10-09 4:55:18 AM,drawing,Weekly discussion thread for /r/drawing,1,38,4885.01,17586049.71,1,301
+2025-10-09 5:05:18 AM,drawing,Weekly discussion thread for /r/drawing,1,37,4885.18,17586649.99,0.96,301
+2025-10-09 5:15:18 AM,drawing,Weekly discussion thread for /r/drawing,1,37,4885.35,17587249.43,0.98,301
+2025-10-09 5:25:19 AM,drawing,Weekly discussion thread for /r/drawing,1,39,4885.51,17587850.02,0.99,301
+2025-10-09 5:35:18 AM,drawing,Weekly discussion thread for /r/drawing,1,36,4885.68,17588449.41,0.98,301
+2025-10-09 5:45:18 AM,drawing,Weekly discussion thread for /r/drawing,1,39,4885.85,17589049.24,1,301
+2025-10-09 6:00:59 AM,drawing,Weekly discussion thread for /r/drawing,1,37,4886.11,17589990.59,1,301
+2025-10-09 6:17:35 AM,drawing,Weekly discussion thread for /r/drawing,1,40,4886.39,17590986.64,1,301
+2025-10-09 6:17:37 AM,drawing,Weekly discussion thread for /r/drawing,1,36,4886.39,17590988.78,0.97,301
+2025-10-09 6:25:18 AM,drawing,Weekly discussion thread for /r/drawing,1,35,4886.51,17591449.73,0.98,301
+2025-10-09 6:35:18 AM,drawing,Weekly discussion thread for /r/drawing,1,36,4886.68,17592049.23,0.97,301
+2025-10-09 6:45:18 AM,drawing,Weekly discussion thread for /r/drawing,1,36,4886.85,17592649.71,1,301
+2025-10-09 6:55:18 AM,drawing,Weekly discussion thread for /r/drawing,1,35,4887.01,17593249.3,0.95,301
+2025-10-09 7:05:18 AM,drawing,Weekly discussion thread for /r/drawing,1,35,4887.18,17593849.73,0.94,301
+2025-10-09 7:15:18 AM,drawing,Weekly discussion thread for /r/drawing,1,33,4887.35,17594449.36,0.93,301
+2025-10-09 7:36:30 AM,drawing,Weekly discussion thread for /r/drawing,1,35,4887.7,17595721.74,0.98,301
+2025-10-09 7:36:32 AM,drawing,Weekly discussion thread for /r/drawing,1,37,4887.7,17595723.55,0.97,301
+2025-10-09 7:54:53 AM,drawing,Weekly discussion thread for /r/drawing,1,40,4888.01,17596824.22,1,301
+2025-10-09 7:55:18 AM,drawing,Weekly discussion thread for /r/drawing,1,32,4888.01,17596849.9,0.93,301
+2025-10-09 8:05:18 AM,drawing,Weekly discussion thread for /r/drawing,1,32,4888.18,17597449.79,0.93,301
+2025-10-09 8:15:18 AM,drawing,Weekly discussion thread for /r/drawing,1,37,4888.35,17598049.52,0.98,301
+2025-10-09 8:25:18 AM,drawing,Weekly discussion thread for /r/drawing,1,34,4888.51,17598649.76,0.94,301
+2025-10-09 8:35:18 AM,drawing,Weekly discussion thread for /r/drawing,1,37,4888.68,17599249.17,0.97,301
+2025-10-09 8:45:18 AM,drawing,Weekly discussion thread for /r/drawing,1,36,4888.85,17599849.24,1,301
+2025-10-09 8:55:18 AM,drawing,Weekly discussion thread for /r/drawing,1,33,4889.01,17600449.94,0.93,301
+2025-10-09 9:05:19 AM,drawing,Weekly discussion thread for /r/drawing,1,34,4889.18,17601050.08,0.95,301
+2025-10-09 9:24:40 AM,drawing,Weekly discussion thread for /r/drawing,1,32,4889.5,17602211.49,0.93,301
+2025-10-09 9:25:18 AM,drawing,Weekly discussion thread for /r/drawing,1,36,4889.51,17602249.72,0.94,301
+2025-10-09 9:35:18 AM,drawing,Weekly discussion thread for /r/drawing,1,36,4889.68,17602849.44,0.94,301
+2025-10-09 9:45:18 AM,drawing,Weekly discussion thread for /r/drawing,1,34,4889.85,17603449.87,0.95,301
+2025-10-09 9:55:18 AM,drawing,Weekly discussion thread for /r/drawing,1,34,4890.01,17604049.41,0.97,301
+2025-10-09 10:05:18 AM,drawing,Weekly discussion thread for /r/drawing,1,36,4890.18,17604649.34,0.95,301
+2025-10-09 10:15:18 AM,drawing,Weekly discussion thread for /r/drawing,1,38,4890.35,17605249.81,1,301
+2025-10-09 10:25:18 AM,drawing,Weekly discussion thread for /r/drawing,1,37,4890.51,17605849.48,0.96,301
+2025-10-09 10:44:15 AM,drawing,Weekly discussion thread for /r/drawing,1,36,4890.83,17606986.66,1,301
+2025-10-09 10:45:18 AM,drawing,Weekly discussion thread for /r/drawing,1,34,4890.85,17607049.81,0.97,301
+2025-10-09 11:02:05 AM,drawing,Weekly discussion thread for /r/drawing,1,33,4891.13,17608056.57,0.95,301
+2025-10-09 11:18:20 AM,drawing,Weekly discussion thread for /r/drawing,1,37,4891.4,17609031.7,1,301
+2025-10-09 11:18:23 AM,drawing,Weekly discussion thread for /r/drawing,1,38,4891.4,17609034.62,0.97,301
+2025-10-09 11:25:18 AM,drawing,Weekly discussion thread for /r/drawing,1,38,4891.51,17609449.18,1,301
+2025-10-09 11:35:18 AM,drawing,Weekly discussion thread for /r/drawing,1,40,4891.68,17610049.69,1,301
+2025-10-09 11:45:18 AM,drawing,Weekly discussion thread for /r/drawing,1,37,4891.85,17610649.41,0.98,301
+2025-10-09 11:55:18 AM,drawing,Weekly discussion thread for /r/drawing,1,35,4892.01,17611249.16,0.94,301
+2025-10-09 12:05:18 PM,drawing,Weekly discussion thread for /r/drawing,1,39,4892.18,17611849.28,0.99,301
+2025-10-09 12:15:19 PM,drawing,Weekly discussion thread for /r/drawing,1,36,4892.35,17612450.01,0.94,301
+2025-10-09 12:35:27 PM,drawing,Weekly discussion thread for /r/drawing,1,35,4892.68,17613658.34,0.95,301
+2025-10-09 12:35:30 PM,drawing,Weekly discussion thread for /r/drawing,1,37,4892.68,17613661.41,1,301
+2025-10-09 12:45:18 PM,drawing,Weekly discussion thread for /r/drawing,1,35,4892.85,17614249.12,0.94,301
+2025-10-09 12:55:18 PM,drawing,Weekly discussion thread for /r/drawing,1,35,4893.01,17614849.69,0.97,301
+2025-10-09 1:05:19 PM,drawing,Weekly discussion thread for /r/drawing,1,36,4893.18,17615450.11,0.98,301
+2025-10-09 1:15:18 PM,drawing,Weekly discussion thread for /r/drawing,1,39,4893.35,17616049.36,0.99,301
+2025-10-09 1:25:18 PM,drawing,Weekly discussion thread for /r/drawing,1,34,4893.51,17616649.74,0.94,301
+2025-10-09 1:35:18 PM,drawing,Weekly discussion thread for /r/drawing,1,38,4893.68,17617249.2,0.98,301
+2025-10-09 1:45:18 PM,drawing,Weekly discussion thread for /r/drawing,1,34,4893.85,17617849.45,0.95,301
+2025-10-09 1:55:18 PM,drawing,Weekly discussion thread for /r/drawing,1,32,4894.01,17618449.35,0.93,301
+2025-10-09 2:05:18 PM,drawing,Weekly discussion thread for /r/drawing,1,37,4894.18,17619049.29,0.97,301
+2025-10-09 2:15:18 PM,drawing,Weekly discussion thread for /r/drawing,1,34,4894.35,17619649.9,0.95,301
+2025-10-09 2:25:18 PM,drawing,Weekly discussion thread for /r/drawing,1,38,4894.51,17620249.6,0.97,301
+2025-10-09 2:35:18 PM,drawing,Weekly discussion thread for /r/drawing,1,34,4894.68,17620849.9,0.94,301
+2025-10-09 2:45:18 PM,drawing,Weekly discussion thread for /r/drawing,1,39,4894.85,17621449.25,0.99,301
+2025-10-09 3:07:10 PM,drawing,Weekly discussion thread for /r/drawing,1,36,4895.21,17622761.64,0.98,301
+2025-10-09 3:07:12 PM,drawing,Weekly discussion thread for /r/drawing,1,35,4895.21,17622763.61,0.94,301
+2025-10-09 3:15:18 PM,drawing,Weekly discussion thread for /r/drawing,1,35,4895.35,17623249.54,0.95,301
+2025-10-09 3:25:18 PM,drawing,Weekly discussion thread for /r/drawing,1,37,4895.51,17623849.97,0.98,301
+2025-10-09 3:35:18 PM,drawing,Weekly discussion thread for /r/drawing,1,32,4895.68,17624449.23,0.93,301
+2025-10-09 3:45:18 PM,drawing,Weekly discussion thread for /r/drawing,1,38,4895.85,17625049.91,0.98,301
+2025-10-09 3:55:18 PM,drawing,Weekly discussion thread for /r/drawing,1,36,4896.01,17625649.23,0.94,301
+2025-10-09 4:05:18 PM,drawing,Weekly discussion thread for /r/drawing,1,39,4896.18,17626249.61,0.99,301
+2025-10-09 4:15:18 PM,drawing,Weekly discussion thread for /r/drawing,1,37,4896.35,17626849.37,0.97,301
+2025-10-09 4:25:18 PM,drawing,Weekly discussion thread for /r/drawing,1,38,4896.51,17627449.61,0.97,301
+2025-10-09 4:35:19 PM,drawing,Weekly discussion thread for /r/drawing,1,36,4896.68,17628050.08,0.94,301
+2025-10-09 4:45:18 PM,drawing,Weekly discussion thread for /r/drawing,1,36,4896.85,17628649.57,0.94,301
+2025-10-09 4:55:18 PM,drawing,Weekly discussion thread for /r/drawing,1,34,4897.01,17629249.86,0.94,301
+2025-10-09 5:05:18 PM,drawing,Weekly discussion thread for /r/drawing,1,40,4897.18,17629849.52,1,301
+2025-10-09 5:15:18 PM,drawing,Weekly discussion thread for /r/drawing,1,36,4897.35,17630449.96,0.95,301
+2025-10-08 5:15:18 PM,drawing,I drew my favorite cartoon series.,2,1080,10.84,39023.1,1,30
+2025-10-08 5:42:10 PM,drawing,I drew my favorite cartoon series.,2,1115,11.29,40635.42,1,30
+2025-10-08 5:59:15 PM,drawing,I drew my favorite cartoon series.,2,1129,11.57,41660.43,1,30
+2025-10-08 5:59:18 PM,drawing,I drew my favorite cartoon series.,2,1135,11.57,41663.2,1,30
+2025-10-08 6:15:18 PM,drawing,I drew my favorite cartoon series.,2,1149,11.84,42623.45,1,30
+2025-10-08 6:15:20 PM,drawing,I drew my favorite cartoon series.,2,1148,11.84,42625.85,1,30
+2025-10-08 6:31:22 PM,drawing,I drew my favorite cartoon series.,2,1158,12.11,43587.32,1,31
+2025-10-08 6:47:36 PM,drawing,I drew my favorite cartoon series.,2,1176,12.38,44561.03,1,31
+2025-10-08 6:47:39 PM,drawing,I drew my favorite cartoon series.,2,1178,12.38,44564.15,1,31
+2025-10-08 6:55:18 PM,drawing,I drew my favorite cartoon series.,2,1195,12.51,45023.83,1,31
+2025-10-08 7:05:18 PM,drawing,I drew my favorite cartoon series.,2,1195,12.67,45623.68,1,31
+2025-10-08 7:15:18 PM,drawing,I drew my favorite cartoon series.,2,1213,12.84,46223.66,1,31
+2025-10-08 7:25:18 PM,drawing,I drew my favorite cartoon series.,2,1223,13.01,46823.39,1,31
+2025-10-08 7:35:18 PM,drawing,I drew my favorite cartoon series.,2,1233,13.17,47423.84,1,32
+2025-10-08 7:45:18 PM,drawing,I drew my favorite cartoon series.,2,1246,13.34,48023.19,1,32
+2025-10-08 8:05:12 PM,drawing,I drew my favorite cartoon series.,2,1261,13.67,49217.3,1,32
+2025-10-08 8:05:18 PM,drawing,I drew my favorite cartoon series.,2,1261,13.67,49224,1,32
+2025-10-08 8:22:02 PM,drawing,I drew my favorite cartoon series.,2,1274,13.95,50227.8,1,32
+2025-10-08 8:25:18 PM,drawing,I drew my favorite cartoon series.,2,1284,14.01,50423.38,1,32
+2025-10-08 8:35:18 PM,drawing,I drew my favorite cartoon series.,2,1295,14.17,51023.48,1,32
+2025-10-08 8:45:18 PM,drawing,I drew my favorite cartoon series.,2,1312,14.34,51623.21,1,33
+2025-10-08 8:55:18 PM,drawing,I drew my favorite cartoon series.,2,1316,14.51,52223.65,1,33
+2025-10-08 9:05:18 PM,drawing,I drew my favorite cartoon series.,2,1327,14.67,52823.23,1,33
+2025-10-08 9:15:18 PM,drawing,I drew my favorite cartoon series.,2,1353,14.84,53423.82,1,33
+2025-10-08 9:40:06 PM,drawing,I drew my favorite cartoon series.,2,1364,15.25,54911.24,1,33
+2025-10-08 9:40:10 PM,drawing,I drew my favorite cartoon series.,2,1364,15.25,54915.07,1,33
+2025-10-08 9:56:33 PM,drawing,I drew my favorite cartoon series.,2,1384,15.53,55898.01,1,33
+2025-10-08 9:56:34 PM,drawing,I drew my favorite cartoon series.,2,1378,15.53,55899.63,1,33
+2025-10-08 10:13:47 PM,drawing,I drew my favorite cartoon series.,2,1394,15.81,56932.24,1,33
+2025-10-08 10:15:18 PM,drawing,I drew my favorite cartoon series.,2,1393,15.84,57023.51,1,33
+2025-10-08 10:25:18 PM,drawing,I drew my favorite cartoon series.,2,1408,16.01,57624,1,34
+2025-10-08 10:35:18 PM,drawing,I drew my favorite cartoon series.,2,1422,16.17,58223.79,1,34
+2025-10-08 10:45:18 PM,drawing,I drew my favorite cartoon series.,2,1427,16.34,58823.24,1,34
+2025-10-08 10:55:18 PM,drawing,I drew my favorite cartoon series.,2,1447,16.51,59423.73,1,34
+2025-10-08 11:05:18 PM,drawing,I drew my favorite cartoon series.,2,1450,16.67,60023.85,1,34
+2025-10-08 11:15:18 PM,drawing,I drew my favorite cartoon series.,2,1462,16.84,60623.19,1,34
+2025-10-08 11:25:18 PM,drawing,I drew my favorite cartoon series.,3,1480,17.01,61223.46,1,34
+2025-10-08 11:35:19 PM,drawing,I drew my favorite cartoon series.,3,1483,17.17,61824,1,34
+2025-10-08 11:45:18 PM,drawing,I drew my favorite cartoon series.,3,1488,17.34,62423.56,1,34
+2025-10-08 11:55:18 PM,drawing,I drew my favorite cartoon series.,3,1493,17.51,63023.77,1,34
+2025-10-09 12:05:18 AM,drawing,I drew my favorite cartoon series.,3,1507,17.67,63623.2,1,34
+2025-10-09 12:23:02 AM,drawing,I drew my favorite cartoon series.,3,1519,17.97,64687.25,1,34
+2025-10-09 12:40:27 AM,drawing,I drew my favorite cartoon series.,3,1540,18.26,65732.94,1,34
+2025-10-09 12:40:31 AM,drawing,I drew my favorite cartoon series.,3,1543,18.26,65736.34,1,34
+2025-10-09 12:45:18 AM,drawing,I drew my favorite cartoon series.,3,1538,18.34,66023.93,1,34
+2025-10-09 12:55:18 AM,drawing,I drew my favorite cartoon series.,3,1555,18.51,66623.47,1,34
+2025-10-09 1:05:18 AM,drawing,I drew my favorite cartoon series.,3,1561,18.67,67223.11,1,34
+2025-10-09 1:15:18 AM,drawing,I drew my favorite cartoon series.,3,1565,18.84,67823.74,1,34
+2025-10-09 1:25:18 AM,drawing,I drew my favorite cartoon series.,3,1576,19.01,68423.17,1,34
+2025-10-09 1:35:18 AM,drawing,I drew my favorite cartoon series.,3,1576,19.17,69023.63,1,34
+2025-10-09 1:57:38 AM,drawing,I drew my favorite cartoon series.,3,1581,19.55,70363.57,1,34
+2025-10-09 1:57:41 AM,drawing,I drew my favorite cartoon series.,3,1581,19.55,70366.74,1,34
+2025-10-09 2:05:18 AM,drawing,I drew my favorite cartoon series.,3,1590,19.67,70823.9,1,34
+2025-10-09 2:15:18 AM,drawing,I drew my favorite cartoon series.,3,1595,19.84,71423.72,1,34
+2025-10-09 2:25:18 AM,drawing,I drew my favorite cartoon series.,3,1601,20.01,72023.51,1,34
+2025-10-09 2:35:18 AM,drawing,I drew my favorite cartoon series.,3,1604,20.17,72623.95,1,34
+2025-10-09 2:45:18 AM,drawing,I drew my favorite cartoon series.,3,1606,20.34,73223.15,1,34
+2025-10-09 2:55:18 AM,drawing,I drew my favorite cartoon series.,3,1616,20.51,73823.66,1,34
+2025-10-09 3:13:55 AM,drawing,I drew my favorite cartoon series.,3,1622,20.82,74940.53,1,34
+2025-10-09 3:30:04 AM,drawing,I drew my favorite cartoon series.,4,1632,21.09,75909.94,1,34
+2025-10-09 3:30:07 AM,drawing,I drew my favorite cartoon series.,4,1632,21.09,75912.32,1,34
+2025-10-09 3:35:18 AM,drawing,I drew my favorite cartoon series.,4,1639,21.17,76223.47,1,34
+2025-10-09 3:45:18 AM,drawing,I drew my favorite cartoon series.,4,1635,21.34,76823.8,1,34
+2025-10-09 3:55:18 AM,drawing,I drew my favorite cartoon series.,4,1650,21.51,77423.55,1,34
+2025-10-09 4:05:18 AM,drawing,I drew my favorite cartoon series.,4,1658,21.67,78024,1,34
+2025-10-09 4:15:18 AM,drawing,I drew my favorite cartoon series.,4,1657,21.84,78623.53,1,34
+2025-10-09 4:25:19 AM,drawing,I drew my favorite cartoon series.,4,1666,22.01,79224.09,1,34
+2025-10-09 4:46:15 AM,drawing,I drew my favorite cartoon series.,4,1674,22.36,80480.47,1,35
+2025-10-09 4:46:17 AM,drawing,I drew my favorite cartoon series.,4,1677,22.36,80482.69,1,35
+2025-10-09 4:55:18 AM,drawing,I drew my favorite cartoon series.,4,1679,22.51,81023.71,1,35
+2025-10-09 5:05:18 AM,drawing,I drew my favorite cartoon series.,4,1683,22.67,81623.99,1,35
+2025-10-09 5:15:18 AM,drawing,I drew my favorite cartoon series.,4,1692,22.84,82223.43,1,35
+2025-10-09 5:25:19 AM,drawing,I drew my favorite cartoon series.,4,1694,23.01,82824.02,1,35
+2025-10-09 5:35:18 AM,drawing,I drew my favorite cartoon series.,4,1693,23.17,83423.41,1,35
+2025-10-09 5:45:18 AM,drawing,I drew my favorite cartoon series.,4,1703,23.34,84023.24,1,35
+2025-10-09 6:00:59 AM,drawing,I drew my favorite cartoon series.,4,1708,23.6,84964.59,1,35
+2025-10-09 6:17:35 AM,drawing,I drew my favorite cartoon series.,4,1717,23.88,85960.64,1,35
+2025-10-09 6:17:37 AM,drawing,I drew my favorite cartoon series.,4,1715,23.88,85962.78,1,35
+2025-10-09 6:25:18 AM,drawing,I drew my favorite cartoon series.,4,1711,24.01,86423.73,1,35
+2025-10-09 6:35:18 AM,drawing,I drew my favorite cartoon series.,4,1724,24.17,87023.23,1,35
+2025-10-09 6:45:18 AM,drawing,I drew my favorite cartoon series.,4,1727,24.34,87623.71,1,35
+2025-10-09 6:55:18 AM,drawing,I drew my favorite cartoon series.,4,1729,24.51,88223.3,1,35
+2025-10-09 7:05:18 AM,drawing,I drew my favorite cartoon series.,4,1740,24.67,88823.73,1,35
+2025-10-09 7:15:18 AM,drawing,I drew my favorite cartoon series.,4,1742,24.84,89423.36,1,35
+2025-10-09 7:36:30 AM,drawing,I drew my favorite cartoon series.,5,1749,25.19,90695.74,1,35
+2025-10-09 7:36:32 AM,drawing,I drew my favorite cartoon series.,5,1745,25.19,90697.55,1,35
+2025-10-09 7:54:53 AM,drawing,I drew my favorite cartoon series.,5,1763,25.5,91798.22,1,36
+2025-10-09 7:55:18 AM,drawing,I drew my favorite cartoon series.,5,1760,25.51,91823.9,1,36
+2025-10-09 8:05:18 AM,drawing,I drew my favorite cartoon series.,5,1776,25.67,92423.79,1,36
+2025-10-09 8:15:18 AM,drawing,I drew my favorite cartoon series.,6,1776,25.84,93023.52,1,36
+2025-10-09 8:55:18 AM,drawing,I drew my favorite cartoon series.,6,1787,26.51,95423.94,1,36
+2025-10-09 9:05:19 AM,drawing,I drew my favorite cartoon series.,6,1791,26.67,96024.08,1,36
+2025-10-09 8:25:18 AM,drawing,I drew my favorite cartoon series.,7,1774,26.01,93623.76,1,36
+2025-10-09 8:35:18 AM,drawing,I drew my favorite cartoon series.,7,1777,26.17,94223.17,1,36
+2025-10-09 8:45:18 AM,drawing,I drew my favorite cartoon series.,7,1780,26.34,94823.24,1,36
+2025-10-09 9:24:40 AM,drawing,I drew my favorite cartoon series.,7,1801,27,97185.49,1,36
+2025-10-09 9:25:18 AM,drawing,I drew my favorite cartoon series.,7,1800,27.01,97223.72,1,36
+2025-10-09 9:35:18 AM,drawing,I drew my favorite cartoon series.,8,1803,27.17,97823.44,1,36
+2025-10-09 9:45:18 AM,drawing,I drew my favorite cartoon series.,8,1806,27.34,98423.87,1,36
+2025-10-09 9:55:18 AM,drawing,I drew my favorite cartoon series.,8,1810,27.51,99023.41,1,36
+2025-10-09 10:05:18 AM,drawing,I drew my favorite cartoon series.,9,1815,27.67,99623.34,1,37
+2025-10-09 10:15:18 AM,drawing,I drew my favorite cartoon series.,9,1813,27.84,100223.81,1,37
+2025-10-09 10:25:18 AM,drawing,I drew my favorite cartoon series.,9,1819,28.01,100823.48,1,37
+2025-10-09 10:44:15 AM,drawing,I drew my favorite cartoon series.,9,1824,28.32,101960.66,1,37
+2025-10-09 10:45:18 AM,drawing,I drew my favorite cartoon series.,10,1827,28.34,102023.81,1,37
+2025-10-09 11:02:05 AM,drawing,I drew my favorite cartoon series.,10,1826,28.62,103030.57,1,37
+2025-10-09 11:18:20 AM,drawing,I drew my favorite cartoon series.,11,1825,28.89,104005.7,1,37
+2025-10-09 11:18:23 AM,drawing,I drew my favorite cartoon series.,11,1829,28.89,104008.62,1,37
+2025-10-09 11:25:18 AM,drawing,I drew my favorite cartoon series.,12,1830,29.01,104423.18,1,37
+2025-10-09 11:35:18 AM,drawing,I drew my favorite cartoon series.,12,1832,29.17,105023.69,1,37
+2025-10-09 11:45:18 AM,drawing,I drew my favorite cartoon series.,13,1833,29.34,105623.41,1,38
+2025-10-09 11:55:18 AM,drawing,I drew my favorite cartoon series.,15,1830,29.51,106223.16,1,38
+2025-10-09 12:05:18 PM,drawing,I drew my favorite cartoon series.,16,1839,29.67,106823.28,1,38
+2025-10-09 12:15:19 PM,drawing,I drew my favorite cartoon series.,17,1840,29.84,107424.01,1,38
+2025-10-09 12:35:27 PM,drawing,I drew my favorite cartoon series.,19,1839,30.18,108632.34,1,38
+2025-10-09 12:35:30 PM,drawing,I drew my favorite cartoon series.,19,1835,30.18,108635.41,1,38
+2025-10-09 12:45:18 PM,drawing,I drew my favorite cartoon series.,19,1840,30.34,109223.12,1,38
+2025-10-09 12:55:18 PM,drawing,I drew my favorite cartoon series.,19,1842,30.51,109823.69,1,38
+2025-10-09 1:05:19 PM,drawing,I drew my favorite cartoon series.,19,1847,30.67,110424.11,1,38
+2025-10-09 1:15:18 PM,drawing,I drew my favorite cartoon series.,19,1852,30.84,111023.36,1,38
+2025-10-09 1:25:18 PM,drawing,I drew my favorite cartoon series.,19,1846,31.01,111623.74,1,38
+2025-10-09 1:35:18 PM,drawing,I drew my favorite cartoon series.,19,1850,31.17,112223.2,1,38
+2025-10-09 1:45:18 PM,drawing,I drew my favorite cartoon series.,19,1851,31.34,112823.45,1,38
+2025-10-09 1:55:18 PM,drawing,I drew my favorite cartoon series.,19,1855,31.51,113423.35,1,38
+2025-10-09 2:05:18 PM,drawing,I drew my favorite cartoon series.,21,1855,31.67,114023.29,1,38
+2025-10-09 2:15:18 PM,drawing,I drew my favorite cartoon series.,21,1866,31.84,114623.9,1,38
+2025-10-09 2:25:18 PM,drawing,I drew my favorite cartoon series.,21,1861,32.01,115223.6,1,38
+2025-10-09 2:35:18 PM,drawing,I drew my favorite cartoon series.,22,1873,32.17,115823.9,1,38
+2025-10-09 2:45:18 PM,drawing,I drew my favorite cartoon series.,22,1864,32.34,116423.25,1,38
+2025-10-09 3:07:10 PM,drawing,I drew my favorite cartoon series.,22,1875,32.7,117735.64,1,38
+2025-10-09 3:07:12 PM,drawing,I drew my favorite cartoon series.,22,1872,32.7,117737.61,1,38
+2025-10-09 3:15:18 PM,drawing,I drew my favorite cartoon series.,23,1875,32.84,118223.54,1,38
+2025-10-09 3:25:18 PM,drawing,I drew my favorite cartoon series.,24,1876,33.01,118823.97,1,38
+2025-10-09 3:35:18 PM,drawing,I drew my favorite cartoon series.,24,1882,33.17,119423.23,1,38
+2025-10-09 3:45:18 PM,drawing,I drew my favorite cartoon series.,24,1883,33.34,120023.91,1,38
+2025-10-09 3:55:18 PM,drawing,I drew my favorite cartoon series.,24,1882,33.51,120623.23,1,38
+2025-10-09 4:05:18 PM,drawing,I drew my favorite cartoon series.,24,1885,33.67,121223.61,1,38
+2025-10-09 4:15:18 PM,drawing,I drew my favorite cartoon series.,25,1878,33.84,121823.37,1,38
+2025-10-09 4:25:18 PM,drawing,I drew my favorite cartoon series.,25,1885,34.01,122423.61,1,38
+2025-10-09 4:35:19 PM,drawing,I drew my favorite cartoon series.,25,1887,34.17,123024.08,1,38
+2025-10-09 4:45:18 PM,drawing,I drew my favorite cartoon series.,25,1889,34.34,123623.57,1,38
+2025-10-09 4:55:18 PM,drawing,I drew my favorite cartoon series.,25,1890,34.51,124223.86,1,38
+2025-10-09 5:05:18 PM,drawing,I drew my favorite cartoon series.,25,1888,34.67,124823.52,1,38
+2025-10-09 5:15:18 PM,drawing,I drew my favorite cartoon series.,25,1897,34.84,125423.96,1,38
+2025-10-08 5:15:18 PM,drawing,What would you name her,3,346,8.62,31033.1,0.97,223
+2025-10-08 5:42:10 PM,drawing,What would you name her,3,348,9.07,32645.42,0.96,223
+2025-10-08 5:59:15 PM,drawing,What would you name her,3,347,9.35,33670.43,0.96,224
+2025-10-08 5:59:18 PM,drawing,What would you name her,3,349,9.35,33673.2,0.96,224
+2025-10-08 6:15:18 PM,drawing,What would you name her,3,356,9.62,34633.45,0.96,227
+2025-10-08 6:15:20 PM,drawing,What would you name her,3,357,9.62,34635.85,0.96,227
+2025-10-08 6:31:22 PM,drawing,What would you name her,3,370,9.89,35597.32,0.96,227
+2025-10-08 6:47:36 PM,drawing,What would you name her,3,376,10.16,36571.03,0.97,231
+2025-10-08 6:47:39 PM,drawing,What would you name her,3,372,10.16,36574.15,0.97,231
+2025-10-08 6:55:18 PM,drawing,What would you name her,3,374,10.29,37033.83,0.97,233
+2025-10-08 7:05:18 PM,drawing,What would you name her,3,376,10.45,37633.68,0.97,234
+2025-10-08 7:15:18 PM,drawing,What would you name her,4,380,10.62,38233.66,0.97,236
+2025-10-08 7:25:18 PM,drawing,What would you name her,4,381,10.79,38833.39,0.97,237
+2025-10-08 7:35:18 PM,drawing,What would you name her,4,388,10.95,39433.84,0.97,238
+2025-10-08 7:45:18 PM,drawing,What would you name her,4,390,11.12,40033.19,0.97,238
+2025-10-08 8:05:12 PM,drawing,What would you name her,4,394,11.45,41227.3,0.97,240
+2025-10-08 8:05:18 PM,drawing,What would you name her,4,400,11.45,41234,0.97,240
+2025-10-08 8:22:02 PM,drawing,What would you name her,4,402,11.73,42237.8,0.97,242
+2025-10-08 8:25:18 PM,drawing,What would you name her,4,404,11.79,42433.38,0.97,243
+2025-10-08 8:35:18 PM,drawing,What would you name her,4,408,11.95,43033.48,0.97,245
+2025-10-08 8:45:18 PM,drawing,What would you name her,4,407,12.12,43633.21,0.97,245
+2025-10-08 8:55:18 PM,drawing,What would you name her,4,407,12.29,44233.65,0.97,249
+2025-10-08 9:05:18 PM,drawing,What would you name her,4,416,12.45,44833.23,0.97,250
+2025-10-08 9:15:18 PM,drawing,What would you name her,4,426,12.62,45433.82,0.97,253
+2025-10-08 9:40:06 PM,drawing,What would you name her,4,428,13.03,46921.24,0.97,255
+2025-10-08 9:40:10 PM,drawing,What would you name her,4,434,13.03,46925.07,0.97,255
+2025-10-08 9:56:33 PM,drawing,What would you name her,4,441,13.31,47908.01,0.97,256
+2025-10-08 9:56:34 PM,drawing,What would you name her,4,443,13.31,47909.63,0.97,256
+2025-10-08 10:13:47 PM,drawing,What would you name her,4,442,13.6,48942.24,0.97,260
+2025-10-08 10:15:18 PM,drawing,What would you name her,4,445,13.62,49033.51,0.97,261
+2025-10-08 10:25:18 PM,drawing,What would you name her,4,444,13.79,49634,0.97,261
+2025-10-08 10:35:18 PM,drawing,What would you name her,4,451,13.95,50233.79,0.97,262
+2025-10-08 10:45:18 PM,drawing,What would you name her,4,456,14.12,50833.24,0.97,265
+2025-10-08 10:55:18 PM,drawing,What would you name her,4,455,14.29,51433.73,0.97,265
+2025-10-08 11:05:18 PM,drawing,What would you name her,5,456,14.45,52033.85,0.97,265
+2025-10-08 11:15:18 PM,drawing,What would you name her,5,466,14.62,52633.19,0.97,265
+2025-10-08 11:25:18 PM,drawing,What would you name her,5,466,14.79,53233.46,0.97,265
+2025-10-08 11:35:19 PM,drawing,What would you name her,5,467,14.95,53834,0.97,266
+2025-10-08 11:45:18 PM,drawing,What would you name her,5,472,15.12,54433.56,0.97,266
+2025-10-08 11:55:18 PM,drawing,What would you name her,5,470,15.29,55033.77,0.97,267
+2025-10-09 12:05:18 AM,drawing,What would you name her,5,478,15.45,55633.2,0.97,268
+2025-10-09 12:23:02 AM,drawing,What would you name her,5,479,15.75,56697.25,0.97,268
+2025-10-09 12:40:27 AM,drawing,What would you name her,6,484,16.04,57742.94,0.97,271
+2025-10-09 12:40:31 AM,drawing,What would you name her,6,485,16.04,57746.34,0.97,271
+2025-10-09 12:45:18 AM,drawing,What would you name her,6,487,16.12,58033.93,0.97,271
+2025-10-09 12:55:18 AM,drawing,What would you name her,6,485,16.29,58633.47,0.97,272
+2025-10-09 1:05:18 AM,drawing,What would you name her,6,496,16.45,59233.11,0.97,274
+2025-10-09 1:15:18 AM,drawing,What would you name her,6,498,16.62,59833.74,0.97,275
+2025-10-09 1:25:18 AM,drawing,What would you name her,6,497,16.79,60433.17,0.97,276
+2025-10-09 1:35:18 AM,drawing,What would you name her,6,497,16.95,61033.63,0.97,277
+2025-10-09 1:57:38 AM,drawing,What would you name her,6,505,17.33,62373.57,0.97,279
+2025-10-09 1:57:41 AM,drawing,What would you name her,6,504,17.33,62376.74,0.97,279
+2025-10-09 2:05:18 AM,drawing,What would you name her,6,506,17.45,62833.9,0.97,282
+2025-10-09 2:15:18 AM,drawing,What would you name her,6,507,17.62,63433.72,0.97,285
+2025-10-09 2:25:18 AM,drawing,What would you name her,6,506,17.79,64033.51,0.97,285
+2025-10-09 2:35:18 AM,drawing,What would you name her,7,510,17.95,64633.95,0.97,286
+2025-10-09 2:45:18 AM,drawing,What would you name her,7,509,18.12,65233.15,0.97,286
+2025-10-09 2:55:18 AM,drawing,What would you name her,7,514,18.29,65833.66,0.97,288
+2025-10-09 3:13:55 AM,drawing,What would you name her,7,512,18.6,66950.53,0.97,288
+2025-10-09 3:30:04 AM,drawing,What would you name her,7,520,18.87,67919.94,0.97,290
+2025-10-09 3:30:07 AM,drawing,What would you name her,7,520,18.87,67922.32,0.97,290
+2025-10-09 3:35:18 AM,drawing,What would you name her,7,526,18.95,68233.47,0.97,290
+2025-10-09 3:45:18 AM,drawing,What would you name her,7,522,19.12,68833.8,0.97,291
+2025-10-09 3:55:18 AM,drawing,What would you name her,7,524,19.29,69433.55,0.97,292
+2025-10-09 4:05:18 AM,drawing,What would you name her,7,525,19.45,70034,0.97,292
+2025-10-09 4:15:18 AM,drawing,What would you name her,7,520,19.62,70633.53,0.97,292
+2025-10-09 4:25:19 AM,drawing,What would you name her,7,527,19.79,71234.09,0.97,293
+2025-10-09 4:46:15 AM,drawing,What would you name her,7,525,20.14,72490.47,0.97,294
+2025-10-09 4:46:17 AM,drawing,What would you name her,7,534,20.14,72492.69,0.97,294
+2025-10-09 4:55:18 AM,drawing,What would you name her,7,531,20.29,73033.71,0.97,294
+2025-10-09 5:05:18 AM,drawing,What would you name her,7,530,20.45,73633.99,0.97,295
+2025-10-09 5:15:18 AM,drawing,What would you name her,8,537,20.62,74233.43,0.97,296
+2025-10-09 5:25:19 AM,drawing,What would you name her,8,535,20.79,74834.02,0.97,296
+2025-10-09 5:35:18 AM,drawing,What would you name her,8,534,20.95,75433.41,0.97,296
+2025-10-09 5:45:18 AM,drawing,What would you name her,8,537,21.12,76033.24,0.97,296
+2025-10-09 6:00:59 AM,drawing,What would you name her,8,536,21.38,76974.59,0.97,296
+2025-10-09 6:17:35 AM,drawing,What would you name her,9,545,21.66,77970.64,0.97,298
+2025-10-09 6:17:37 AM,drawing,What would you name her,9,546,21.66,77972.78,0.97,298
+2025-10-09 6:25:18 AM,drawing,What would you name her,10,540,21.79,78433.73,0.97,299
+2025-10-09 6:35:18 AM,drawing,What would you name her,10,548,21.95,79033.23,0.97,299
+2025-10-09 6:45:18 AM,drawing,What would you name her,11,543,22.12,79633.71,0.97,300
+2025-10-09 6:55:18 AM,drawing,What would you name her,11,550,22.29,80233.3,0.97,301
+2025-10-09 7:05:18 AM,drawing,What would you name her,11,546,22.45,80833.73,0.97,302
+2025-10-09 7:15:18 AM,drawing,What would you name her,11,548,22.62,81433.36,0.97,303
+2025-10-09 7:36:30 AM,drawing,What would you name her,12,554,22.97,82705.74,0.97,305
+2025-10-09 7:36:32 AM,drawing,What would you name her,12,548,22.97,82707.55,0.97,305
+2025-10-09 7:54:53 AM,drawing,What would you name her,12,554,23.28,83808.22,0.97,307
+2025-10-09 7:55:18 AM,drawing,What would you name her,12,554,23.29,83833.9,0.97,308
+2025-10-09 8:05:18 AM,drawing,What would you name her,12,559,23.45,84433.79,0.97,308
+2025-10-09 8:15:18 AM,drawing,What would you name her,13,563,23.62,85033.52,0.97,310
+2025-10-09 8:25:18 AM,drawing,What would you name her,13,559,23.79,85633.76,0.97,310
+2025-10-09 8:35:18 AM,drawing,What would you name her,13,561,23.95,86233.17,0.97,310
+2025-10-09 8:55:18 AM,drawing,What would you name her,14,564,24.29,87433.94,0.97,313
+2025-10-09 8:45:18 AM,drawing,What would you name her,16,563,24.12,86833.24,0.97,311
+2025-10-09 9:05:19 AM,drawing,What would you name her,16,571,24.45,88034.08,0.98,315
+2025-10-09 9:24:40 AM,drawing,What would you name her,16,571,24.78,89195.49,0.98,316
+2025-10-09 9:25:18 AM,drawing,What would you name her,16,577,24.79,89233.72,0.98,316
+2025-10-09 9:35:18 AM,drawing,What would you name her,17,566,24.95,89833.44,0.98,316
+2025-10-09 9:45:18 AM,drawing,What would you name her,17,575,25.12,90433.87,0.98,316
+2025-10-09 9:55:18 AM,drawing,What would you name her,18,575,25.29,91033.41,0.98,317
+2025-10-09 10:05:18 AM,drawing,What would you name her,18,576,25.45,91633.34,0.98,317
+2025-10-09 10:15:18 AM,drawing,What would you name her,20,575,25.62,92233.81,0.98,319
+2025-10-09 10:25:18 AM,drawing,What would you name her,20,580,25.79,92833.48,0.98,322
+2025-10-09 10:44:15 AM,drawing,What would you name her,21,577,26.1,93970.66,0.98,322
+2025-10-09 10:45:18 AM,drawing,What would you name her,21,583,26.12,94033.81,0.98,322
+2025-10-09 11:02:05 AM,drawing,What would you name her,21,580,26.4,95040.57,0.98,322
+2025-10-09 11:18:20 AM,drawing,What would you name her,22,576,26.67,96015.7,0.98,322
+2025-10-09 11:18:23 AM,drawing,What would you name her,22,583,26.67,96018.62,0.98,322
+2025-10-09 11:25:18 AM,drawing,What would you name her,22,581,26.79,96433.18,0.98,322
+2025-10-09 11:35:18 AM,drawing,What would you name her,23,587,26.95,97033.69,0.98,322
+2025-10-09 11:45:18 AM,drawing,What would you name her,25,580,27.12,97633.41,0.98,322
+2025-10-09 11:55:18 AM,drawing,What would you name her,25,583,27.29,98233.16,0.98,323
+2025-10-09 12:05:18 PM,drawing,What would you name her,27,577,27.45,98833.28,0.98,324
+2025-10-09 12:15:19 PM,drawing,What would you name her,28,579,27.62,99434.01,0.98,324
+2025-10-09 12:35:27 PM,drawing,What would you name her,30,584,27.96,100642.34,0.98,324
+2025-10-09 12:35:30 PM,drawing,What would you name her,30,589,27.96,100645.41,0.98,324
+2025-10-09 12:45:18 PM,drawing,What would you name her,30,589,28.12,101233.12,0.98,324
+2025-10-09 12:55:18 PM,drawing,What would you name her,31,584,28.29,101833.69,0.98,324
+2025-10-09 1:05:19 PM,drawing,What would you name her,31,585,28.45,102434.11,0.98,324
+2025-10-09 1:15:18 PM,drawing,What would you name her,31,586,28.62,103033.36,0.98,325
+2025-10-09 1:25:18 PM,drawing,What would you name her,31,587,28.79,103633.74,0.98,325
+2025-10-09 1:35:18 PM,drawing,What would you name her,32,590,28.95,104233.2,0.98,325
+2025-10-09 1:45:18 PM,drawing,What would you name her,33,591,29.12,104833.45,0.98,325
+2025-10-09 1:55:18 PM,drawing,What would you name her,35,597,29.29,105433.35,0.98,325
+2025-10-09 2:05:18 PM,drawing,What would you name her,36,592,29.45,106033.29,0.98,326
+2025-10-09 2:15:18 PM,drawing,What would you name her,38,594,29.62,106633.9,0.98,326
+2025-10-09 2:25:18 PM,drawing,What would you name her,39,597,29.79,107233.6,0.98,326
+2025-10-09 2:35:18 PM,drawing,What would you name her,40,594,29.95,107833.9,0.98,326
+2025-10-09 2:45:18 PM,drawing,What would you name her,42,594,30.12,108433.25,0.98,326
+2025-10-09 3:07:10 PM,drawing,What would you name her,43,592,30.48,109745.64,0.98,327
+2025-10-09 3:07:12 PM,drawing,What would you name her,43,599,30.49,109747.61,0.98,327
+2025-10-09 3:15:18 PM,drawing,What would you name her,44,594,30.62,110233.54,0.98,327
+2025-10-09 3:25:18 PM,drawing,What would you name her,44,601,30.79,110833.97,0.98,327
+2025-10-09 3:35:18 PM,drawing,What would you name her,44,606,30.95,111433.23,0.98,327
+2025-10-09 3:45:18 PM,drawing,What would you name her,44,605,31.12,112033.91,0.98,328
+2025-10-09 3:55:18 PM,drawing,What would you name her,46,598,31.29,112633.23,0.98,328
+2025-10-09 4:05:18 PM,drawing,What would you name her,46,601,31.45,113233.61,0.98,329
+2025-10-09 4:15:18 PM,drawing,What would you name her,49,604,31.62,113833.37,0.98,329
+2025-10-09 4:25:18 PM,drawing,What would you name her,49,605,31.79,114433.61,0.98,329
+2025-10-09 4:35:19 PM,drawing,What would you name her,49,602,31.95,115034.08,0.98,329
+2025-10-09 4:45:18 PM,drawing,What would you name her,51,609,32.12,115633.57,0.98,330
+2025-10-09 4:55:18 PM,drawing,What would you name her,52,610,32.29,116233.86,0.98,330
+2025-10-09 5:05:18 PM,drawing,What would you name her,52,614,32.45,116833.52,0.98,330
+2025-10-09 5:15:18 PM,drawing,What would you name her,55,613,32.62,117433.96,0.98,330
+2025-10-08 5:15:18 PM,drawing,How do you like my starfish?,5,185,7.28,26219.1,0.99,7
+2025-10-08 5:42:10 PM,drawing,How do you like my starfish?,6,185,7.73,27831.42,0.99,7
+2025-10-08 5:59:15 PM,drawing,How do you like my starfish?,6,188,8.02,28856.43,0.99,7
+2025-10-08 5:59:18 PM,drawing,How do you like my starfish?,6,187,8.02,28859.2,0.99,7
+2025-10-08 6:15:18 PM,drawing,How do you like my starfish?,6,190,8.28,29819.45,0.99,7
+2025-10-08 6:15:20 PM,drawing,How do you like my starfish?,6,190,8.28,29821.85,0.99,7
+2025-10-08 6:31:22 PM,drawing,How do you like my starfish?,6,189,8.55,30783.32,0.99,7
+2025-10-08 6:47:36 PM,drawing,How do you like my starfish?,6,191,8.82,31757.03,0.99,7
+2025-10-08 6:47:39 PM,drawing,How do you like my starfish?,6,188,8.82,31760.15,0.99,7
+2025-10-08 6:55:18 PM,drawing,How do you like my starfish?,7,190,8.95,32219.83,0.99,7
+2025-10-08 7:05:18 PM,drawing,How do you like my starfish?,7,194,9.12,32819.68,0.99,7
+2025-10-08 7:15:18 PM,drawing,How do you like my starfish?,7,196,9.28,33419.66,0.99,7
+2025-10-08 7:25:18 PM,drawing,How do you like my starfish?,7,193,9.45,34019.39,0.99,7
+2025-10-08 7:35:18 PM,drawing,How do you like my starfish?,7,194,9.62,34619.84,0.99,7
+2025-10-08 7:45:18 PM,drawing,How do you like my starfish?,7,192,9.78,35219.19,0.99,8
+2025-10-08 8:05:12 PM,drawing,How do you like my starfish?,7,198,10.11,36413.3,0.99,8
+2025-10-08 8:05:18 PM,drawing,How do you like my starfish?,7,197,10.12,36420,0.99,8
+2025-10-08 8:22:02 PM,drawing,How do you like my starfish?,7,199,10.4,37423.8,1,8
+2025-10-08 8:25:18 PM,drawing,How do you like my starfish?,7,199,10.45,37619.38,1,8
+2025-10-08 8:35:18 PM,drawing,How do you like my starfish?,7,201,10.62,38219.48,1,8
+2025-10-08 8:45:18 PM,drawing,How do you like my starfish?,7,197,10.78,38819.21,1,8
+2025-10-08 8:55:18 PM,drawing,How do you like my starfish?,7,201,10.95,39419.65,1,8
+2025-10-08 9:05:18 PM,drawing,How do you like my starfish?,7,201,11.12,40019.23,1,8
+2025-10-08 9:15:18 PM,drawing,How do you like my starfish?,7,199,11.28,40619.82,1,8
+2025-10-08 9:40:06 PM,drawing,How do you like my starfish?,7,208,11.7,42107.24,1,8
+2025-10-08 9:40:10 PM,drawing,How do you like my starfish?,7,206,11.7,42111.07,1,8
+2025-10-08 9:56:33 PM,drawing,How do you like my starfish?,7,207,11.97,43094.01,1,8
+2025-10-08 9:56:34 PM,drawing,How do you like my starfish?,7,208,11.97,43095.63,1,8
+2025-10-08 10:13:47 PM,drawing,How do you like my starfish?,8,207,12.26,44128.24,1,8
+2025-10-08 10:15:18 PM,drawing,How do you like my starfish?,8,212,12.28,44219.51,1,8
+2025-10-08 10:25:18 PM,drawing,How do you like my starfish?,8,212,12.45,44820,1,8
+2025-10-08 10:35:18 PM,drawing,How do you like my starfish?,8,214,12.62,45419.79,1,8
+2025-10-08 10:45:18 PM,drawing,How do you like my starfish?,9,210,12.78,46019.24,1,8
+2025-10-08 10:55:18 PM,drawing,How do you like my starfish?,9,209,12.95,46619.73,1,8
+2025-10-08 11:05:18 PM,drawing,How do you like my starfish?,9,213,13.12,47219.85,1,8
+2025-10-08 11:15:18 PM,drawing,How do you like my starfish?,9,216,13.28,47819.19,1,8
+2025-10-08 11:25:18 PM,drawing,How do you like my starfish?,9,212,13.45,48419.46,1,8
+2025-10-08 11:35:19 PM,drawing,How do you like my starfish?,10,217,13.62,49020,1,8
+2025-10-08 11:45:18 PM,drawing,How do you like my starfish?,10,214,13.78,49619.56,1,8
+2025-10-08 11:55:18 PM,drawing,How do you like my starfish?,10,213,13.95,50219.77,1,8
+2025-10-09 12:05:18 AM,drawing,How do you like my starfish?,10,217,14.12,50819.2,1,8
+2025-10-09 12:23:02 AM,drawing,How do you like my starfish?,10,217,14.41,51883.25,1,8
+2025-10-09 12:40:27 AM,drawing,How do you like my starfish?,11,219,14.7,52928.94,1,8
+2025-10-09 12:40:31 AM,drawing,How do you like my starfish?,11,214,14.7,52932.34,1,8
+2025-10-09 12:45:18 AM,drawing,How do you like my starfish?,11,219,14.78,53219.93,1,8
+2025-10-09 12:55:18 AM,drawing,How do you like my starfish?,11,216,14.95,53819.47,1,8
+2025-10-09 1:05:18 AM,drawing,How do you like my starfish?,11,219,15.12,54419.11,1,8
+2025-10-09 1:15:18 AM,drawing,How do you like my starfish?,11,222,15.28,55019.74,1,8
+2025-10-09 1:25:18 AM,drawing,How do you like my starfish?,11,217,15.45,55619.17,1,8
+2025-10-09 1:35:18 AM,drawing,How do you like my starfish?,11,217,15.62,56219.63,1,8
+2025-10-09 1:57:38 AM,drawing,How do you like my starfish?,11,222,15.99,57559.57,1,8
+2025-10-09 1:57:41 AM,drawing,How do you like my starfish?,11,220,15.99,57562.74,1,8
+2025-10-09 2:05:18 AM,drawing,How do you like my starfish?,11,224,16.12,58019.9,1,8
+2025-10-09 2:15:18 AM,drawing,How do you like my starfish?,11,222,16.28,58619.72,1,8
+2025-10-09 2:25:18 AM,drawing,How do you like my starfish?,12,217,16.45,59219.51,1,8
+2025-10-09 2:35:18 AM,drawing,How do you like my starfish?,13,218,16.62,59819.95,1,8
+2025-10-09 2:45:18 AM,drawing,How do you like my starfish?,13,220,16.78,60419.15,1,8
+2025-10-09 2:55:18 AM,drawing,How do you like my starfish?,13,222,16.95,61019.66,1,8
+2025-10-09 3:13:55 AM,drawing,How do you like my starfish?,13,222,17.26,62136.53,1,8
+2025-10-09 3:30:04 AM,drawing,How do you like my starfish?,13,224,17.53,63105.94,1,8
+2025-10-09 3:30:07 AM,drawing,How do you like my starfish?,13,225,17.53,63108.32,1,8
+2025-10-09 3:35:18 AM,drawing,How do you like my starfish?,13,224,17.62,63419.47,1,8
+2025-10-09 3:45:18 AM,drawing,How do you like my starfish?,13,223,17.78,64019.8,1,8
+2025-10-09 3:55:18 AM,drawing,How do you like my starfish?,13,223,17.95,64619.55,1,8
+2025-10-09 4:05:18 AM,drawing,How do you like my starfish?,13,220,18.12,65220,1,8
+2025-10-09 4:15:18 AM,drawing,How do you like my starfish?,13,226,18.28,65819.53,1,8
+2025-10-09 4:25:19 AM,drawing,How do you like my starfish?,13,223,18.45,66420.09,1,8
+2025-10-09 4:46:15 AM,drawing,How do you like my starfish?,13,222,18.8,67676.47,1,8
+2025-10-09 4:46:17 AM,drawing,How do you like my starfish?,13,223,18.8,67678.69,1,8
+2025-10-09 4:55:18 AM,drawing,How do you like my starfish?,13,226,18.95,68219.71,1,8
+2025-10-09 5:05:18 AM,drawing,How do you like my starfish?,13,225,19.12,68819.99,1,8
+2025-10-09 5:15:18 AM,drawing,How do you like my starfish?,13,228,19.28,69419.43,1,8
+2025-10-09 5:25:19 AM,drawing,How do you like my starfish?,13,225,19.45,70020.02,1,8
+2025-10-09 5:35:18 AM,drawing,How do you like my starfish?,14,226,19.62,70619.41,1,8
+2025-10-09 5:45:18 AM,drawing,How do you like my starfish?,15,225,19.78,71219.24,1,8
+2025-10-09 6:00:59 AM,drawing,How do you like my starfish?,15,225,20.04,72160.59,1,8
+2025-10-09 6:17:35 AM,drawing,How do you like my starfish?,18,224,20.32,73156.64,1,8
+2025-10-09 6:17:37 AM,drawing,How do you like my starfish?,18,226,20.32,73158.78,1,8
+2025-10-09 6:25:18 AM,drawing,How do you like my starfish?,18,228,20.45,73619.73,1,8
+2025-10-09 6:35:18 AM,drawing,How do you like my starfish?,19,229,20.62,74219.23,1,8
+2025-10-09 6:45:18 AM,drawing,How do you like my starfish?,21,225,20.78,74819.71,1,8
+2025-10-09 6:55:18 AM,drawing,How do you like my starfish?,21,229,20.95,75419.3,1,8
+2025-10-09 7:05:18 AM,drawing,How do you like my starfish?,21,232,21.12,76019.73,1,8
+2025-10-09 7:15:18 AM,drawing,How do you like my starfish?,21,228,21.28,76619.36,1,8
+2025-10-09 7:36:30 AM,drawing,How do you like my starfish?,22,224,21.64,77891.74,1,8
+2025-10-09 7:36:32 AM,drawing,How do you like my starfish?,22,227,21.64,77893.55,1,8
+2025-10-09 7:54:53 AM,drawing,How do you like my starfish?,24,228,21.94,78994.22,1,8
+2025-10-09 7:55:18 AM,drawing,How do you like my starfish?,24,229,21.95,79019.9,1,8
+2025-10-09 8:05:18 AM,drawing,How do you like my starfish?,24,227,22.12,79619.79,1,8
+2025-10-09 8:15:18 AM,drawing,How do you like my starfish?,25,228,22.28,80219.52,1,8
+2025-10-09 8:25:18 AM,drawing,How do you like my starfish?,27,231,22.45,80819.76,1,8
+2025-10-09 8:35:18 AM,drawing,How do you like my starfish?,27,229,22.62,81419.17,1,8
+2025-10-09 8:45:18 AM,drawing,How do you like my starfish?,28,229,22.78,82019.24,1,8
+2025-10-09 8:55:18 AM,drawing,How do you like my starfish?,28,228,22.95,82619.94,1,8
+2025-10-09 9:05:19 AM,drawing,How do you like my starfish?,28,225,23.12,83220.08,1,8
+2025-10-09 9:24:40 AM,drawing,How do you like my starfish?,28,227,23.44,84381.49,1,8
+2025-10-09 9:25:18 AM,drawing,How do you like my starfish?,28,229,23.45,84419.72,1,8
+2025-10-09 9:35:18 AM,drawing,How do you like my starfish?,30,226,23.62,85019.44,1,8
+2025-10-09 9:45:18 AM,drawing,How do you like my starfish?,30,228,23.78,85619.87,1,8
+2025-10-09 9:55:18 AM,drawing,How do you like my starfish?,31,228,23.95,86219.41,1,8
+2025-10-09 10:05:18 AM,drawing,How do you like my starfish?,34,226,24.12,86819.34,1,8
+2025-10-09 10:15:18 AM,drawing,How do you like my starfish?,35,229,24.28,87419.81,1,8
+2025-10-09 10:25:18 AM,drawing,How do you like my starfish?,35,229,24.45,88019.48,1,8
+2025-10-09 10:44:15 AM,drawing,How do you like my starfish?,36,227,24.77,89156.66,1,8
+2025-10-09 10:45:18 AM,drawing,How do you like my starfish?,37,227,24.78,89219.81,1,8
+2025-10-09 11:02:05 AM,drawing,How do you like my starfish?,37,232,25.06,90226.57,1,8
+2025-10-09 11:18:20 AM,drawing,How do you like my starfish?,39,227,25.33,91201.7,1,8
+2025-10-09 11:18:23 AM,drawing,How do you like my starfish?,39,230,25.33,91204.62,1,8
+2025-10-09 11:25:18 AM,drawing,How do you like my starfish?,39,230,25.45,91619.18,1,8
+2025-10-09 11:35:18 AM,drawing,How do you like my starfish?,40,230,25.62,92219.69,1,8
+2025-10-09 11:45:18 AM,drawing,How do you like my starfish?,43,227,25.78,92819.41,1,8
+2025-10-09 11:55:18 AM,drawing,How do you like my starfish?,43,229,25.95,93419.16,1,8
+2025-10-09 12:05:18 PM,drawing,How do you like my starfish?,45,227,26.12,94019.28,1,8
+2025-10-09 12:15:19 PM,drawing,How do you like my starfish?,46,230,26.28,94620.01,1,8
+2025-10-09 12:35:27 PM,drawing,How do you like my starfish?,50,226,26.62,95828.34,1,8
+2025-10-09 12:35:30 PM,drawing,How do you like my starfish?,50,228,26.62,95831.41,1,8
+2025-10-09 12:45:18 PM,drawing,How do you like my starfish?,50,233,26.78,96419.12,1,8
+2025-10-09 12:55:18 PM,drawing,How do you like my starfish?,51,228,26.95,97019.69,1,8
+2025-10-09 1:05:19 PM,drawing,How do you like my starfish?,52,227,27.12,97620.11,1,8
+2025-10-09 1:15:18 PM,drawing,How do you like my starfish?,55,229,27.28,98219.36,1,8
+2025-10-09 1:25:18 PM,drawing,How do you like my starfish?,55,231,27.45,98819.74,1,8
+2025-10-09 1:35:18 PM,drawing,How do you like my starfish?,56,228,27.62,99419.2,1,8
+2025-10-09 1:45:18 PM,drawing,How do you like my starfish?,56,227,27.78,100019.45,1,8
+2025-10-09 1:55:18 PM,drawing,How do you like my starfish?,58,232,27.95,100619.35,1,8
+2025-10-09 2:05:18 PM,drawing,How do you like my starfish?,59,228,28.12,101219.29,1,8
+2025-10-09 2:15:18 PM,drawing,How do you like my starfish?,60,229,28.28,101819.9,1,8
+2025-10-09 2:25:18 PM,drawing,How do you like my starfish?,62,231,28.45,102419.6,1,8
+2025-10-09 2:35:18 PM,drawing,How do you like my starfish?,64,231,28.62,103019.9,1,8
+2025-10-09 2:45:18 PM,drawing,How do you like my starfish?,64,233,28.78,103619.25,1,8
+2025-10-09 3:07:10 PM,drawing,How do you like my starfish?,66,232,29.15,104931.64,1,8
+2025-10-09 3:07:12 PM,drawing,How do you like my starfish?,66,231,29.15,104933.61,1,8
+2025-10-09 3:15:18 PM,drawing,How do you like my starfish?,66,232,29.28,105419.54,1,8
+2025-10-09 3:25:18 PM,drawing,How do you like my starfish?,66,231,29.45,106019.97,1,8
+2025-10-09 3:35:18 PM,drawing,How do you like my starfish?,66,230,29.62,106619.23,1,8
+2025-10-09 3:45:18 PM,drawing,How do you like my starfish?,68,234,29.78,107219.91,1,8
+2025-10-09 3:55:18 PM,drawing,How do you like my starfish?,70,230,29.95,107819.23,1,8
+2025-10-09 4:05:18 PM,drawing,How do you like my starfish?,71,229,30.12,108419.61,1,8
+2025-10-09 4:15:18 PM,drawing,How do you like my starfish?,72,230,30.28,109019.37,1,8
+2025-10-09 4:25:18 PM,drawing,How do you like my starfish?,73,233,30.45,109619.61,1,8
+2025-10-09 4:35:19 PM,drawing,How do you like my starfish?,75,229,30.62,110220.08,1,8
+2025-10-09 4:45:18 PM,drawing,How do you like my starfish?,77,227,30.78,110819.57,1,8
+2025-10-09 4:55:18 PM,drawing,How do you like my starfish?,79,233,30.95,111419.86,1,8
+2025-10-09 5:05:18 PM,drawing,How do you like my starfish?,79,228,31.12,112019.52,1,8
+2025-10-09 5:15:18 PM,drawing,How do you like my starfish?,82,235,31.28,112619.96,1,8
+2025-10-08 5:15:18 PM,drawing,"It's taken me years, but I finally have my portable drawing kit 100% dialed in. What's yours look like?",4,126,4.56,16415.1,0.99,15
+2025-10-08 5:42:10 PM,drawing,"It's taken me years, but I finally have my portable drawing kit 100% dialed in. What's yours look like?",4,127,5.01,18027.42,0.98,15
+2025-10-08 5:59:15 PM,drawing,"It's taken me years, but I finally have my portable drawing kit 100% dialed in. What's yours look like?",5,132,5.29,19052.43,0.98,15
+2025-10-08 5:59:18 PM,drawing,"It's taken me years, but I finally have my portable drawing kit 100% dialed in. What's yours look like?",5,129,5.29,19055.2,0.98,15
+2025-10-08 6:15:18 PM,drawing,"It's taken me years, but I finally have my portable drawing kit 100% dialed in. What's yours look like?",5,137,5.56,20015.45,0.98,15
+2025-10-08 6:15:20 PM,drawing,"It's taken me years, but I finally have my portable drawing kit 100% dialed in. What's yours look like?",5,137,5.56,20017.85,0.98,15
+2025-10-08 6:31:22 PM,drawing,"It's taken me years, but I finally have my portable drawing kit 100% dialed in. What's yours look like?",5,143,5.83,20979.32,0.98,16
+2025-10-08 6:47:36 PM,drawing,"It's taken me years, but I finally have my portable drawing kit 100% dialed in. What's yours look like?",5,140,6.1,21953.03,0.98,16
+2025-10-08 6:47:39 PM,drawing,"It's taken me years, but I finally have my portable drawing kit 100% dialed in. What's yours look like?",5,141,6.1,21956.15,0.98,16
+2025-10-08 6:55:18 PM,drawing,"It's taken me years, but I finally have my portable drawing kit 100% dialed in. What's yours look like?",5,146,6.23,22415.83,0.98,16
+2025-10-08 7:05:18 PM,drawing,"It's taken me years, but I finally have my portable drawing kit 100% dialed in. What's yours look like?",5,145,6.39,23015.68,0.98,16
+2025-10-08 7:15:18 PM,drawing,"It's taken me years, but I finally have my portable drawing kit 100% dialed in. What's yours look like?",5,150,6.56,23615.66,0.98,16
+2025-10-08 7:25:18 PM,drawing,"It's taken me years, but I finally have my portable drawing kit 100% dialed in. What's yours look like?",5,151,6.73,24215.39,0.98,16
+2025-10-08 7:35:18 PM,drawing,"It's taken me years, but I finally have my portable drawing kit 100% dialed in. What's yours look like?",5,150,6.89,24815.84,0.98,16
+2025-10-08 7:45:18 PM,drawing,"It's taken me years, but I finally have my portable drawing kit 100% dialed in. What's yours look like?",5,153,7.06,25415.19,0.98,16
+2025-10-08 8:05:12 PM,drawing,"It's taken me years, but I finally have my portable drawing kit 100% dialed in. What's yours look like?",5,157,7.39,26609.3,0.98,16
+2025-10-08 8:05:18 PM,drawing,"It's taken me years, but I finally have my portable drawing kit 100% dialed in. What's yours look like?",5,159,7.39,26616,0.98,16
+2025-10-08 8:22:02 PM,drawing,"It's taken me years, but I finally have my portable drawing kit 100% dialed in. What's yours look like?",5,159,7.67,27619.8,0.98,17
+2025-10-08 8:25:18 PM,drawing,"It's taken me years, but I finally have my portable drawing kit 100% dialed in. What's yours look like?",5,164,7.73,27815.38,0.98,17
+2025-10-08 8:35:18 PM,drawing,"It's taken me years, but I finally have my portable drawing kit 100% dialed in. What's yours look like?",5,162,7.89,28415.48,0.98,23
+2025-10-08 8:45:18 PM,drawing,"It's taken me years, but I finally have my portable drawing kit 100% dialed in. What's yours look like?",5,161,8.06,29015.21,0.98,24
+2025-10-08 8:55:18 PM,drawing,"It's taken me years, but I finally have my portable drawing kit 100% dialed in. What's yours look like?",5,164,8.23,29615.65,0.98,24
+2025-10-08 9:05:18 PM,drawing,"It's taken me years, but I finally have my portable drawing kit 100% dialed in. What's yours look like?",5,170,8.39,30215.23,0.98,24
+2025-10-08 9:15:18 PM,drawing,"It's taken me years, but I finally have my portable drawing kit 100% dialed in. What's yours look like?",5,173,8.56,30815.82,0.98,24
+2025-10-08 9:40:06 PM,drawing,"It's taken me years, but I finally have my portable drawing kit 100% dialed in. What's yours look like?",5,176,8.97,32303.24,0.98,24
+2025-10-08 9:40:10 PM,drawing,"It's taken me years, but I finally have my portable drawing kit 100% dialed in. What's yours look like?",5,175,8.97,32307.07,0.98,24
+2025-10-08 9:56:33 PM,drawing,"It's taken me years, but I finally have my portable drawing kit 100% dialed in. What's yours look like?",5,178,9.25,33290.01,0.98,24
+2025-10-08 9:56:34 PM,drawing,"It's taken me years, but I finally have my portable drawing kit 100% dialed in. What's yours look like?",5,179,9.25,33291.63,0.98,24
+2025-10-08 10:13:47 PM,drawing,"It's taken me years, but I finally have my portable drawing kit 100% dialed in. What's yours look like?",5,182,9.53,34324.24,0.98,25
+2025-10-08 10:15:18 PM,drawing,"It's taken me years, but I finally have my portable drawing kit 100% dialed in. What's yours look like?",5,183,9.56,34415.51,0.98,25
+2025-10-08 10:25:18 PM,drawing,"It's taken me years, but I finally have my portable drawing kit 100% dialed in. What's yours look like?",5,185,9.73,35016,0.98,26
+2025-10-08 10:35:18 PM,drawing,"It's taken me years, but I finally have my portable drawing kit 100% dialed in. What's yours look like?",5,187,9.89,35615.79,0.98,27
+2025-10-08 10:45:18 PM,drawing,"It's taken me years, but I finally have my portable drawing kit 100% dialed in. What's yours look like?",5,189,10.06,36215.24,0.98,27
+2025-10-08 10:55:18 PM,drawing,"It's taken me years, but I finally have my portable drawing kit 100% dialed in. What's yours look like?",6,187,10.23,36815.73,0.98,27
+2025-10-08 11:05:18 PM,drawing,"It's taken me years, but I finally have my portable drawing kit 100% dialed in. What's yours look like?",6,188,10.39,37415.85,0.98,27
+2025-10-08 11:15:18 PM,drawing,"It's taken me years, but I finally have my portable drawing kit 100% dialed in. What's yours look like?",6,189,10.56,38015.19,0.98,27
+2025-10-08 11:25:18 PM,drawing,"It's taken me years, but I finally have my portable drawing kit 100% dialed in. What's yours look like?",7,190,10.73,38615.46,0.98,27
+2025-10-08 11:35:19 PM,drawing,"It's taken me years, but I finally have my portable drawing kit 100% dialed in. What's yours look like?",8,190,10.89,39216,0.98,27
+2025-10-08 11:45:18 PM,drawing,"It's taken me years, but I finally have my portable drawing kit 100% dialed in. What's yours look like?",8,191,11.06,39815.56,0.98,27
+2025-10-08 11:55:18 PM,drawing,"It's taken me years, but I finally have my portable drawing kit 100% dialed in. What's yours look like?",8,194,11.23,40415.77,0.98,27
+2025-10-09 12:05:18 AM,drawing,"It's taken me years, but I finally have my portable drawing kit 100% dialed in. What's yours look like?",8,195,11.39,41015.2,0.98,27
+2025-10-09 12:23:02 AM,drawing,"It's taken me years, but I finally have my portable drawing kit 100% dialed in. What's yours look like?",8,199,11.69,42079.25,0.98,27
+2025-10-09 12:40:27 AM,drawing,"It's taken me years, but I finally have my portable drawing kit 100% dialed in. What's yours look like?",8,200,11.98,43124.94,0.98,28
+2025-10-09 12:40:31 AM,drawing,"It's taken me years, but I finally have my portable drawing kit 100% dialed in. What's yours look like?",8,200,11.98,43128.34,0.98,28
+2025-10-09 12:45:18 AM,drawing,"It's taken me years, but I finally have my portable drawing kit 100% dialed in. What's yours look like?",8,198,12.06,43415.93,0.98,28
+2025-10-09 12:55:18 AM,drawing,"It's taken me years, but I finally have my portable drawing kit 100% dialed in. What's yours look like?",8,199,12.23,44015.47,0.98,28
+2025-10-09 1:05:18 AM,drawing,"It's taken me years, but I finally have my portable drawing kit 100% dialed in. What's yours look like?",8,204,12.39,44615.11,0.98,28
+2025-10-09 1:15:18 AM,drawing,"It's taken me years, but I finally have my portable drawing kit 100% dialed in. What's yours look like?",8,206,12.56,45215.74,0.98,28
+2025-10-09 1:25:18 AM,drawing,"It's taken me years, but I finally have my portable drawing kit 100% dialed in. What's yours look like?",8,205,12.73,45815.17,0.98,28
+2025-10-09 1:35:18 AM,drawing,"It's taken me years, but I finally have my portable drawing kit 100% dialed in. What's yours look like?",8,203,12.89,46415.63,0.98,28
+2025-10-09 1:57:38 AM,drawing,"It's taken me years, but I finally have my portable drawing kit 100% dialed in. What's yours look like?",8,209,13.27,47755.57,0.98,28
+2025-10-09 1:57:41 AM,drawing,"It's taken me years, but I finally have my portable drawing kit 100% dialed in. What's yours look like?",8,207,13.27,47758.74,0.98,28
+2025-10-09 2:05:18 AM,drawing,"It's taken me years, but I finally have my portable drawing kit 100% dialed in. What's yours look like?",8,209,13.39,48215.9,0.98,28
+2025-10-09 2:15:18 AM,drawing,"It's taken me years, but I finally have my portable drawing kit 100% dialed in. What's yours look like?",8,209,13.56,48815.72,0.98,28
+2025-10-09 2:25:18 AM,drawing,"It's taken me years, but I finally have my portable drawing kit 100% dialed in. What's yours look like?",8,211,13.73,49415.51,0.98,28
+2025-10-09 2:35:18 AM,drawing,"It's taken me years, but I finally have my portable drawing kit 100% dialed in. What's yours look like?",9,210,13.89,50015.95,0.98,28
+2025-10-09 2:45:18 AM,drawing,"It's taken me years, but I finally have my portable drawing kit 100% dialed in. What's yours look like?",9,209,14.06,50615.15,0.98,28
+2025-10-09 2:55:18 AM,drawing,"It's taken me years, but I finally have my portable drawing kit 100% dialed in. What's yours look like?",9,214,14.23,51215.66,0.98,28
+2025-10-09 3:13:55 AM,drawing,"It's taken me years, but I finally have my portable drawing kit 100% dialed in. What's yours look like?",9,211,14.54,52332.53,0.98,28
+2025-10-09 3:30:04 AM,drawing,"It's taken me years, but I finally have my portable drawing kit 100% dialed in. What's yours look like?",9,213,14.81,53301.94,0.98,28
+2025-10-09 3:30:07 AM,drawing,"It's taken me years, but I finally have my portable drawing kit 100% dialed in. What's yours look like?",9,215,14.81,53304.32,0.98,28
+2025-10-09 3:35:18 AM,drawing,"It's taken me years, but I finally have my portable drawing kit 100% dialed in. What's yours look like?",9,214,14.89,53615.47,0.98,28
+2025-10-09 3:45:18 AM,drawing,"It's taken me years, but I finally have my portable drawing kit 100% dialed in. What's yours look like?",9,214,15.06,54215.8,0.98,28
+2025-10-09 3:55:18 AM,drawing,"It's taken me years, but I finally have my portable drawing kit 100% dialed in. What's yours look like?",9,213,15.23,54815.55,0.98,28
+2025-10-09 4:05:18 AM,drawing,"It's taken me years, but I finally have my portable drawing kit 100% dialed in. What's yours look like?",9,214,15.39,55416,0.98,28
+2025-10-09 4:15:18 AM,drawing,"It's taken me years, but I finally have my portable drawing kit 100% dialed in. What's yours look like?",9,214,15.56,56015.53,0.98,28
+2025-10-09 4:25:19 AM,drawing,"It's taken me years, but I finally have my portable drawing kit 100% dialed in. What's yours look like?",9,217,15.73,56616.09,0.98,28
+2025-10-09 4:46:15 AM,drawing,"It's taken me years, but I finally have my portable drawing kit 100% dialed in. What's yours look like?",10,216,16.08,57872.47,0.98,28
+2025-10-09 4:46:17 AM,drawing,"It's taken me years, but I finally have my portable drawing kit 100% dialed in. What's yours look like?",10,216,16.08,57874.69,0.98,28
+2025-10-09 4:55:18 AM,drawing,"It's taken me years, but I finally have my portable drawing kit 100% dialed in. What's yours look like?",10,214,16.23,58415.71,0.98,28
+2025-10-09 5:05:18 AM,drawing,"It's taken me years, but I finally have my portable drawing kit 100% dialed in. What's yours look like?",10,216,16.39,59015.99,0.98,28
+2025-10-09 5:15:18 AM,drawing,"It's taken me years, but I finally have my portable drawing kit 100% dialed in. What's yours look like?",10,216,16.56,59615.43,0.98,28
+2025-10-09 5:25:19 AM,drawing,"It's taken me years, but I finally have my portable drawing kit 100% dialed in. What's yours look like?",10,219,16.73,60216.02,0.98,28
+2025-10-09 5:35:18 AM,drawing,"It's taken me years, but I finally have my portable drawing kit 100% dialed in. What's yours look like?",10,219,16.89,60815.41,0.98,28
+2025-10-09 5:45:18 AM,drawing,"It's taken me years, but I finally have my portable drawing kit 100% dialed in. What's yours look like?",10,220,17.06,61415.24,0.98,28
+2025-10-09 6:00:59 AM,drawing,"It's taken me years, but I finally have my portable drawing kit 100% dialed in. What's yours look like?",11,223,17.32,62356.59,0.98,28
+2025-10-09 6:17:35 AM,drawing,"It's taken me years, but I finally have my portable drawing kit 100% dialed in. What's yours look like?",11,223,17.6,63352.64,0.98,28
+2025-10-09 6:17:37 AM,drawing,"It's taken me years, but I finally have my portable drawing kit 100% dialed in. What's yours look like?",11,223,17.6,63354.78,0.98,28
+2025-10-09 6:25:18 AM,drawing,"It's taken me years, but I finally have my portable drawing kit 100% dialed in. What's yours look like?",12,223,17.73,63815.73,0.98,28
+2025-10-09 6:35:18 AM,drawing,"It's taken me years, but I finally have my portable drawing kit 100% dialed in. What's yours look like?",13,225,17.89,64415.23,0.98,28
+2025-10-09 6:45:18 AM,drawing,"It's taken me years, but I finally have my portable drawing kit 100% dialed in. What's yours look like?",13,225,18.06,65015.71,0.98,28
+2025-10-09 6:55:18 AM,drawing,"It's taken me years, but I finally have my portable drawing kit 100% dialed in. What's yours look like?",13,225,18.23,65615.3,0.98,28
+2025-10-09 7:05:18 AM,drawing,"It's taken me years, but I finally have my portable drawing kit 100% dialed in. What's yours look like?",13,225,18.39,66215.73,0.98,28
+2025-10-09 7:15:18 AM,drawing,"It's taken me years, but I finally have my portable drawing kit 100% dialed in. What's yours look like?",14,228,18.56,66815.36,0.98,28
+2025-10-09 7:36:30 AM,drawing,"It's taken me years, but I finally have my portable drawing kit 100% dialed in. What's yours look like?",14,229,18.91,68087.74,0.98,28
+2025-10-09 7:36:32 AM,drawing,"It's taken me years, but I finally have my portable drawing kit 100% dialed in. What's yours look like?",14,230,18.91,68089.55,0.98,28
+2025-10-09 7:54:53 AM,drawing,"It's taken me years, but I finally have my portable drawing kit 100% dialed in. What's yours look like?",14,233,19.22,69190.22,0.98,29
+2025-10-09 7:55:18 AM,drawing,"It's taken me years, but I finally have my portable drawing kit 100% dialed in. What's yours look like?",15,230,19.23,69215.9,0.98,29
+2025-10-09 8:05:18 AM,drawing,"It's taken me years, but I finally have my portable drawing kit 100% dialed in. What's yours look like?",15,233,19.39,69815.79,0.98,29
+2025-10-09 8:15:18 AM,drawing,"It's taken me years, but I finally have my portable drawing kit 100% dialed in. What's yours look like?",16,231,19.56,70415.52,0.98,29
+2025-10-09 8:25:18 AM,drawing,"It's taken me years, but I finally have my portable drawing kit 100% dialed in. What's yours look like?",17,232,19.73,71015.76,0.98,29
+2025-10-09 8:55:18 AM,drawing,"It's taken me years, but I finally have my portable drawing kit 100% dialed in. What's yours look like?",17,235,20.23,72815.94,0.98,29
+2025-10-09 8:35:18 AM,drawing,"It's taken me years, but I finally have my portable drawing kit 100% dialed in. What's yours look like?",18,233,19.89,71615.17,0.98,29
+2025-10-09 8:45:18 AM,drawing,"It's taken me years, but I finally have my portable drawing kit 100% dialed in. What's yours look like?",18,234,20.06,72215.24,0.98,29
+2025-10-09 9:05:19 AM,drawing,"It's taken me years, but I finally have my portable drawing kit 100% dialed in. What's yours look like?",18,234,20.39,73416.08,0.98,30
+2025-10-09 9:24:40 AM,drawing,"It's taken me years, but I finally have my portable drawing kit 100% dialed in. What's yours look like?",19,235,20.72,74577.49,0.98,31
+2025-10-09 9:25:18 AM,drawing,"It's taken me years, but I finally have my portable drawing kit 100% dialed in. What's yours look like?",19,235,20.73,74615.72,0.98,31
+2025-10-09 9:35:18 AM,drawing,"It's taken me years, but I finally have my portable drawing kit 100% dialed in. What's yours look like?",20,236,20.89,75215.44,0.98,31
+2025-10-09 9:45:18 AM,drawing,"It's taken me years, but I finally have my portable drawing kit 100% dialed in. What's yours look like?",20,233,21.06,75815.87,0.98,31
+2025-10-09 9:55:18 AM,drawing,"It's taken me years, but I finally have my portable drawing kit 100% dialed in. What's yours look like?",21,238,21.23,76415.41,0.98,31
+2025-10-09 10:05:18 AM,drawing,"It's taken me years, but I finally have my portable drawing kit 100% dialed in. What's yours look like?",23,238,21.39,77015.34,0.98,31
+2025-10-09 10:15:18 AM,drawing,"It's taken me years, but I finally have my portable drawing kit 100% dialed in. What's yours look like?",24,238,21.56,77615.81,0.98,31
+2025-10-09 10:25:18 AM,drawing,"It's taken me years, but I finally have my portable drawing kit 100% dialed in. What's yours look like?",24,237,21.73,78215.48,0.98,31
+2025-10-09 10:44:15 AM,drawing,"It's taken me years, but I finally have my portable drawing kit 100% dialed in. What's yours look like?",24,236,22.04,79352.66,0.98,31
+2025-10-09 10:45:18 AM,drawing,"It's taken me years, but I finally have my portable drawing kit 100% dialed in. What's yours look like?",24,236,22.06,79415.81,0.98,31
+2025-10-09 11:02:05 AM,drawing,"It's taken me years, but I finally have my portable drawing kit 100% dialed in. What's yours look like?",24,233,22.34,80422.57,0.98,31
+2025-10-09 11:18:20 AM,drawing,"It's taken me years, but I finally have my portable drawing kit 100% dialed in. What's yours look like?",25,236,22.61,81397.7,0.98,31
+2025-10-09 11:18:23 AM,drawing,"It's taken me years, but I finally have my portable drawing kit 100% dialed in. What's yours look like?",25,234,22.61,81400.62,0.98,31
+2025-10-09 11:25:18 AM,drawing,"It's taken me years, but I finally have my portable drawing kit 100% dialed in. What's yours look like?",25,235,22.73,81815.18,0.98,31
+2025-10-09 11:35:18 AM,drawing,"It's taken me years, but I finally have my portable drawing kit 100% dialed in. What's yours look like?",26,238,22.89,82415.69,0.98,31
+2025-10-09 11:45:18 AM,drawing,"It's taken me years, but I finally have my portable drawing kit 100% dialed in. What's yours look like?",28,237,23.06,83015.41,0.98,31
+2025-10-09 11:55:18 AM,drawing,"It's taken me years, but I finally have my portable drawing kit 100% dialed in. What's yours look like?",28,235,23.23,83615.16,0.98,32
+2025-10-09 12:05:18 PM,drawing,"It's taken me years, but I finally have my portable drawing kit 100% dialed in. What's yours look like?",30,235,23.39,84215.28,0.98,32
+2025-10-09 12:15:19 PM,drawing,"It's taken me years, but I finally have my portable drawing kit 100% dialed in. What's yours look like?",31,236,23.56,84816.01,0.98,32
+2025-10-09 12:35:27 PM,drawing,"It's taken me years, but I finally have my portable drawing kit 100% dialed in. What's yours look like?",32,238,23.9,86024.34,0.98,32
+2025-10-09 12:35:30 PM,drawing,"It's taken me years, but I finally have my portable drawing kit 100% dialed in. What's yours look like?",32,234,23.9,86027.41,0.98,32
+2025-10-09 12:45:18 PM,drawing,"It's taken me years, but I finally have my portable drawing kit 100% dialed in. What's yours look like?",32,239,24.06,86615.12,0.98,32
+2025-10-09 12:55:18 PM,drawing,"It's taken me years, but I finally have my portable drawing kit 100% dialed in. What's yours look like?",33,236,24.23,87215.69,0.98,32
+2025-10-09 1:05:19 PM,drawing,"It's taken me years, but I finally have my portable drawing kit 100% dialed in. What's yours look like?",35,239,24.39,87816.11,0.98,32
+2025-10-09 1:15:18 PM,drawing,"It's taken me years, but I finally have my portable drawing kit 100% dialed in. What's yours look like?",35,235,24.56,88415.36,0.98,32
+2025-10-09 1:25:18 PM,drawing,"It's taken me years, but I finally have my portable drawing kit 100% dialed in. What's yours look like?",36,236,24.73,89015.74,0.98,32
+2025-10-09 1:35:18 PM,drawing,"It's taken me years, but I finally have my portable drawing kit 100% dialed in. What's yours look like?",37,235,24.89,89615.2,0.98,32
+2025-10-09 1:45:18 PM,drawing,"It's taken me years, but I finally have my portable drawing kit 100% dialed in. What's yours look like?",38,235,25.06,90215.45,0.98,32
+2025-10-09 1:55:18 PM,drawing,"It's taken me years, but I finally have my portable drawing kit 100% dialed in. What's yours look like?",41,235,25.23,90815.35,0.98,32
+2025-10-09 2:05:18 PM,drawing,"It's taken me years, but I finally have my portable drawing kit 100% dialed in. What's yours look like?",42,238,25.39,91415.29,0.98,32
+2025-10-09 2:15:18 PM,drawing,"It's taken me years, but I finally have my portable drawing kit 100% dialed in. What's yours look like?",44,237,25.56,92015.9,0.98,32
+2025-10-09 2:25:18 PM,drawing,"It's taken me years, but I finally have my portable drawing kit 100% dialed in. What's yours look like?",45,237,25.73,92615.6,0.98,32
+2025-10-09 2:35:18 PM,drawing,"It's taken me years, but I finally have my portable drawing kit 100% dialed in. What's yours look like?",46,239,25.89,93215.9,0.98,32
+2025-10-09 2:45:18 PM,drawing,"It's taken me years, but I finally have my portable drawing kit 100% dialed in. What's yours look like?",48,238,26.06,93815.25,0.98,32
+2025-10-09 3:07:10 PM,drawing,"It's taken me years, but I finally have my portable drawing kit 100% dialed in. What's yours look like?",50,236,26.42,95127.64,0.98,32
+2025-10-09 3:07:12 PM,drawing,"It's taken me years, but I finally have my portable drawing kit 100% dialed in. What's yours look like?",50,233,26.42,95129.61,0.98,33
+2025-10-09 3:15:18 PM,drawing,"It's taken me years, but I finally have my portable drawing kit 100% dialed in. What's yours look like?",50,236,26.56,95615.54,0.98,33
+2025-10-09 3:25:18 PM,drawing,"It's taken me years, but I finally have my portable drawing kit 100% dialed in. What's yours look like?",50,234,26.73,96215.97,0.98,33
+2025-10-09 3:35:18 PM,drawing,"It's taken me years, but I finally have my portable drawing kit 100% dialed in. What's yours look like?",50,234,26.89,96815.23,0.98,33
+2025-10-09 3:45:18 PM,drawing,"It's taken me years, but I finally have my portable drawing kit 100% dialed in. What's yours look like?",50,239,27.06,97415.91,0.98,33
+2025-10-09 3:55:18 PM,drawing,"It's taken me years, but I finally have my portable drawing kit 100% dialed in. What's yours look like?",52,236,27.23,98015.23,0.98,33
+2025-10-09 4:05:18 PM,drawing,"It's taken me years, but I finally have my portable drawing kit 100% dialed in. What's yours look like?",52,236,27.39,98615.61,0.98,33
+2025-10-09 4:15:18 PM,drawing,"It's taken me years, but I finally have my portable drawing kit 100% dialed in. What's yours look like?",55,235,27.56,99215.37,0.98,33
+2025-10-09 4:25:18 PM,drawing,"It's taken me years, but I finally have my portable drawing kit 100% dialed in. What's yours look like?",55,236,27.73,99815.61,0.98,33
+2025-10-09 4:35:19 PM,drawing,"It's taken me years, but I finally have my portable drawing kit 100% dialed in. What's yours look like?",55,238,27.89,100416.08,0.98,33
+2025-10-09 4:45:18 PM,drawing,"It's taken me years, but I finally have my portable drawing kit 100% dialed in. What's yours look like?",58,239,28.06,101015.57,0.98,33
+2025-10-09 4:55:18 PM,drawing,"It's taken me years, but I finally have my portable drawing kit 100% dialed in. What's yours look like?",59,235,28.23,101615.86,0.98,33
+2025-10-09 5:05:18 PM,drawing,"It's taken me years, but I finally have my portable drawing kit 100% dialed in. What's yours look like?",60,235,28.39,102215.52,0.98,33
+2025-10-09 5:15:18 PM,drawing,"It's taken me years, but I finally have my portable drawing kit 100% dialed in. What's yours look like?",62,236,28.56,102815.96,0.98,33
